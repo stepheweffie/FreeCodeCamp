@@ -16,10 +16,23 @@ modules = driver.find_elements_by_class_name('superblock ')
 
 children = list()
 for module in modules:
-    print(module.text)
+    #print(module.text)
     children.append(module.text)
-print(children)
+#print(children)
 
 #file = open('first_child.txt', 'w', encoding='UTF-8')
 #file.writelines(children[0])
 
+read_file = open('first_child.txt', 'r', encoding='UTF-8')
+read_lines = read_file.readlines()
+for line in read_lines[:3]:
+    # Omit \n from dir name
+    line = line[:-2]
+    os.mkdir(line)
+    os.chdir(line)
+for ex in read_lines[3:]:
+    if ex != "Not Passed\n":
+        # Omit 'Not Passed\n' and '\n'
+        ex = ex[11:-2]
+        #ex_file = open(ex + '.html', 'w', encoding='UTF-8')
+        print(ex)

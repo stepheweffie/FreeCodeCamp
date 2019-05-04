@@ -18,4 +18,8 @@ children = list()
 for module in modules:
     print(module.text)
     children.append(module.text)
+print(children)
+
+#file = open('first_child.txt', 'w', encoding='UTF-8')
+#file.writelines(children[0])
 

@@ -15,36 +15,42 @@ children = list()
 file = open('first_child.txt', 'w', encoding='UTF-8')
 
 
-def write_element_text(element):
+def write_element_text(elements):
     p = 'Projects'
     h = '(300 hours)'
     new_text = str()
-    if p in element.text:
+    file.write('\n')
+    if p in elements.text:
         n = p + '\n'
-        new_text = str(element.text).replace(p, n)
-    elif h in element.text:
+        new_text = str(elements.text).replace(p, n)
+    elif h in elements.text:
         new_text = '\n' + element.text
     else:
-        children.append(element.text)
-        return file.writelines(element.text)
+        children.append(elements.text)
+        return file.writelines(elements.text)
     file.writelines(new_text)
     children.append(new_text)
+    file.write('\n')
 
 
-elements = driver.find_elements_by_class_name('superblock ')
-for elem in elements[-6:]:
-    write_element_text(elem)
-    elem.click()
-
-elements = driver.find_elements_by_class_name('block ')
-for elem in elements:
-    #write_element_text(elem)
-    elem.click()
-
-elements = driver.find_elements_by_class_name('superblock ')
-#elements = driver.find_elements_by_class_name('map-challenge-title')
-for elem in elements:
-    write_element_text(elem)
+parents = driver.find_elements_by_class_name('superblock ')
+#parents_list = list()
+for element in parents:
+    #parents_list.append(element.text)
+    #write_element_text(element)
+    element.click()
+#print(parents_list)
+#child_list = list()
+child_nodes = driver.find_elements_by_class_name('block ')
+for element in child_nodes:
+    #child_list.append(element.text)
+    #write_element_text(element)
+    element.click()
+#print(child_nodes)
+grandchild_nodes = driver.find_elements_by_class_name('superblock ')
+for element in grandchild_nodes:
+    #element.click()
+    write_element_text(element)
 
 file.close()
 

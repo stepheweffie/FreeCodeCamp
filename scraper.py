@@ -1,8 +1,8 @@
 from selenium import webdriver
-from selenium.common.exceptions import TimeoutException
-from selenium.webdriver.common.by import By
+#from selenium.common.exceptions import TimeoutException
+#from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+#from selenium.webdriver.support import expected_conditions as EC
 import os
 
 options = webdriver.ChromeOptions()
@@ -11,28 +11,41 @@ driver = webdriver.Chrome(chrome_options=options)
 driver.get('https://learn.freecodecamp.org/')
 wait = WebDriverWait(driver, 15)
 
-elements = driver.find_elements_by_class_name('superblock ')
-#elements = driver.find_elements_by_tag_name('li')
-
-for element in elements[-6:]:
-    #children.append(element.text)
-    element.click()
-
 children = list()
 file = open('first_child.txt', 'w', encoding='UTF-8')
 
-for element in elements:
+
+def write_element_text(element):
     p = 'Projects'
+    h = '(300 hours)'
+    new_text = str()
     if p in element.text:
         n = p + '\n'
         new_text = str(element.text).replace(p, n)
-        file.writelines(new_text)
-        children.append(new_text)
+    elif h in element.text:
+        new_text = '\n' + element.text
     else:
         children.append(element.text)
-        file.writelines(element.text)
+        return file.writelines(element.text)
+    file.writelines(new_text)
+    children.append(new_text)
 
-#print(children)
+
+elements = driver.find_elements_by_class_name('superblock ')
+for elem in elements[-6:]:
+    write_element_text(elem)
+    elem.click()
+
+elements = driver.find_elements_by_class_name('block ')
+for elem in elements:
+    #write_element_text(elem)
+    elem.click()
+
+elements = driver.find_elements_by_class_name('superblock ')
+#elements = driver.find_elements_by_class_name('map-challenge-title')
+for elem in elements:
+    write_element_text(elem)
+
 file.close()
 
 
@@ -83,18 +96,3 @@ def fcc_curriculum():
 
     except FileExistsError:
         pass
-
-
-clicks = list()
-click = wait.until(EC.element_to_be_clickable((By.XPATH,
-                                               '//*[@id="___gatsby"]/div/main/div/div[4]/ul/li[1]/ul/li[2]')))
-print("waited long enough")
-
-clicks.append(click)
-print("clicked clicks")
-elements = driver.find_elements_by_class_name('superblock ')
-#elements = driver.execute_script('document.getElementsByClassName("map-ui")[0].childElementCount', click)
-
-print("found map-ui")
-
-

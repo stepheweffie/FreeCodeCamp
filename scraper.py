@@ -41,7 +41,6 @@ file.close()
 
 def iterate_files(line, parent_dir):
     '''
-
     :param line:
     :param parent_dir:
     :return: Files with different endings within the current directory
@@ -73,6 +72,7 @@ def fcc_curriculum():
         for dirs in read_lines:
             # Omit \n from dir name
             l = dirs[:-1]
+            #print(l)
             pwd = os.getcwd()
             parent = str()
             if '300' in pwd:
@@ -96,6 +96,6 @@ def fcc_curriculum():
     read_file.close()
 
 
-#if __name__ == '__main__':
-print('Preparing to build tree ')
-fcc_curriculum()
+if __name__ == '__main__':
+    print('Preparing to build tree ')
+    fcc_curriculum()

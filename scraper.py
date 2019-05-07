@@ -69,3 +69,7 @@ def fcc_curriculum():
     except FileExistsError:
         pass
     read_file.close()
+    
+
+if __name__ == '__main__':
+    fcc_curriculum()

@@ -1,0 +1,2907 @@
+Responsive Web Design Certification (300 hours)
+Basic HTML and HTML5
+Introduction to Basic HTML and HTML5
+Not Passed
+Not PassedSay Hello to HTML Elements
+Not Passed
+Not PassedHeadline with the h2 Element
+Not Passed
+Not PassedInform with the Paragraph Element
+Not Passed
+Not PassedFill in the Blank with Placeholder Text
+Not Passed
+Not PassedUncomment HTML
+Not Passed
+Not PassedComment out HTML
+Not Passed
+Not PassedDelete HTML Elements
+Not Passed
+Not PassedIntroduction to HTML5 Elements
+Not Passed
+Not PassedAdd Images to Your Website
+Not Passed
+Not PassedLink to External Pages with Anchor Elements
+Not Passed
+Not PassedLink to Internal Sections of a Page with Anchor Elements
+Not Passed
+Not PassedNest an Anchor Element within a Paragraph
+Not Passed
+Not PassedMake Dead Links Using the Hash Symbol
+Not Passed
+Not PassedTurn an Image into a Link
+Not Passed
+Not PassedCreate a Bulleted Unordered List
+Not Passed
+Not PassedCreate an Ordered List
+Not Passed
+Not PassedCreate a Text Field
+Not Passed
+Not PassedAdd Placeholder Text to a Text Field
+Not Passed
+Not PassedCreate a Form Element
+Not Passed
+Not PassedAdd a Submit Button to a Form
+Not Passed
+Not PassedUse HTML5 to Require a Field
+Not Passed
+Not PassedCreate a Set of Radio Buttons
+Not Passed
+Not PassedCreate a Set of Checkboxes
+Not Passed
+Not PassedCheck Radio Buttons and Checkboxes by Default
+Not Passed
+Not PassedNest Many Elements within a Single div Element
+Not Passed
+Not PassedDeclare the Doctype of an HTML Document
+Not Passed
+Not PassedDefine the Head and Body of an HTML Document
+Basic CSS
+Introduction to Basic CSS
+Not Passed
+Not PassedChange the Color of Text
+Not Passed
+Not PassedUse CSS Selectors to Style Elements
+Not Passed
+Not PassedUse a CSS Class to Style an Element
+Not Passed
+Not PassedStyle Multiple Elements with a CSS Class
+Not Passed
+Not PassedChange the Font Size of an Element
+Not Passed
+Not PassedSet the Font Family of an Element
+Not Passed
+Not PassedImport a Google Font
+Not Passed
+Not PassedSpecify How Fonts Should Degrade
+Not Passed
+Not PassedSize Your Images
+Not Passed
+Not PassedAdd Borders Around Your Elements
+Not Passed
+Not PassedAdd Rounded Corners with border-radius
+Not Passed
+Not PassedMake Circular Images with a border-radius
+Not Passed
+Not PassedGive a Background Color to a div Element
+Not Passed
+Not PassedSet the id of an Element
+Not Passed
+Not PassedUse an id Attribute to Style an Element
+Not Passed
+Not PassedAdjust the Padding of an Element
+Not Passed
+Not PassedAdjust the Margin of an Element
+Not Passed
+Not PassedAdd a Negative Margin to an Element
+Not Passed
+Not PassedAdd Different Padding to Each Side of an Element
+Not Passed
+Not PassedAdd Different Margins to Each Side of an Element
+Not Passed
+Not PassedUse Clockwise Notation to Specify the Padding of an Element
+Not Passed
+Not PassedUse Clockwise Notation to Specify the Margin of an Element
+Not Passed
+Not PassedUse Attribute Selectors to Style Elements
+Not Passed
+Not PassedUnderstand Absolute versus Relative Units
+Not Passed
+Not PassedStyle the HTML Body Element
+Not Passed
+Not PassedInherit Styles from the Body Element
+Not Passed
+Not PassedPrioritize One Style Over Another
+Not Passed
+Not PassedOverride Styles in Subsequent CSS
+Not Passed
+Not PassedOverride Class Declarations by Styling ID Attributes
+Not Passed
+Not PassedOverride Class Declarations with Inline Styles
+Not Passed
+Not PassedOverride All Other Styles by using Important
+Not Passed
+Not PassedUse Hex Code for Specific Colors
+Not Passed
+Not PassedUse Hex Code to Mix Colors
+Not Passed
+Not PassedUse Abbreviated Hex Code
+Not Passed
+Not PassedUse RGB values to Color Elements
+Not Passed
+Not PassedUse RGB to Mix Colors
+Not Passed
+Not PassedUse CSS Variables to change several elements at once
+Not Passed
+Not PassedCreate a custom CSS Variable
+Not Passed
+Not PassedUse a custom CSS Variable
+Not Passed
+Not PassedAttach a Fallback value to a CSS Variable
+Not Passed
+Not PassedImprove Compatibility with Browser Fallbacks
+Not Passed
+Not PassedCascading CSS variables
+Not Passed
+Not PassedChange a variable for a specific area
+Not Passed
+Not PassedUse a media query to change a variable
+Applied Visual Design
+Introduction to the Applied Visual Design Challenges
+Not Passed
+Not PassedCreate Visual Balance Using the text-align Property
+Not Passed
+Not PassedAdjust the Width of an Element Using the width Property
+Not Passed
+Not PassedAdjust the Height of an Element Using the height Property
+Not Passed
+Not PassedUse the strong Tag to Make Text Bold
+Not Passed
+Not PassedUse the u Tag to Underline Text
+Not Passed
+Not PassedUse the em Tag to Italicize Text
+Not Passed
+Not PassedUse the s Tag to Strikethrough Text
+Not Passed
+Not PassedCreate a Horizontal Line Using the hr Element
+Not Passed
+Not PassedAdjust the background-color Property of Text
+Not Passed
+Not PassedAdjust the Size of a Header Versus a Paragraph Tag
+Not Passed
+Not PassedAdd a box-shadow to a Card-like Element
+Not Passed
+Not PassedDecrease the Opacity of an Element
+Not Passed
+Not PassedUse the text-transform Property to Make Text Uppercase
+Not Passed
+Not PassedSet the font-size for Multiple Heading Elements
+Not Passed
+Not PassedSet the font-weight for Multiple Heading Elements
+Not Passed
+Not PassedSet the font-size of Paragraph Text
+Not Passed
+Not PassedSet the line-height of Paragraphs
+Not Passed
+Not PassedAdjust the Hover State of an Anchor Tag
+Not Passed
+Not PassedChange an Element's Relative Position
+Not Passed
+Not PassedMove a Relatively Positioned Element with CSS Offsets
+Not Passed
+Not PassedLock an Element to its Parent with Absolute Positioning
+Not Passed
+Not PassedLock an Element to the Browser Window with Fixed Positioning
+Not Passed
+Not PassedPush Elements Left or Right with the float Property
+Not Passed
+Not PassedChange the Position of Overlapping Elements with the z-index Property
+Not Passed
+Not PassedCenter an Element Horizontally Using the margin Property
+Not Passed
+Not PassedLearn about Complementary Colors
+Not Passed
+Not PassedLearn about Tertiary Colors
+Not Passed
+Not PassedAdjust the Color of Various Elements to Complementary Colors
+Not Passed
+Not PassedAdjust the Hue of a Color
+Not Passed
+Not PassedAdjust the Tone of a Color
+Not Passed
+Not PassedCreate a Gradual CSS Linear Gradient
+Not Passed
+Not PassedUse a CSS Linear Gradient to Create a Striped Element
+Not Passed
+Not PassedCreate Texture by Adding a Subtle Pattern as a Background Image
+Not Passed
+Not PassedUse the CSS Transform scale Property to Change the Size of an Element
+Not Passed
+Not PassedUse the CSS Transform scale Property to Scale an Element on Hover
+Not Passed
+Not PassedUse the CSS Transform Property skewX to Skew an Element Along the X-Axis
+Not Passed
+Not PassedUse the CSS Transform Property skewY to Skew an Element Along the Y-Axis
+Not Passed
+Not PassedCreate a Graphic Using CSS
+Not Passed
+Not PassedCreate a More Complex Shape Using CSS and HTML
+Not Passed
+Not PassedLearn How the CSS @keyframes and animation Properties Work
+Not Passed
+Not PassedUse CSS Animation to Change the Hover State of a Button
+Not Passed
+Not PassedModify Fill Mode of an Animation
+Not Passed
+Not PassedCreate Movement Using CSS Animation
+Not Passed
+Not PassedCreate Visual Direction by Fading an Element from Left to Right
+Not Passed
+Not PassedAnimate Elements Continually Using an Infinite Animation Count
+Not Passed
+Not PassedMake a CSS Heartbeat using an Infinite Animation Count
+Not Passed
+Not PassedAnimate Elements at Variable Rates
+Not Passed
+Not PassedAnimate Multiple Elements at Variable Rates
+Not Passed
+Not PassedChange Animation Timing with Keywords
+Not Passed
+Not PassedLearn How Bezier Curves Work
+Not Passed
+Not PassedUse a Bezier Curve to Move a Graphic
+Not Passed
+Not PassedMake Motion More Natural Using a Bezier Curve
+Applied Accessibility
+Introduction to the Applied Accessibility Challenges
+Not Passed
+Not PassedAdd a Text Alternative to Images for Visually Impaired Accessibility
+Not Passed
+Not PassedKnow When Alt Text Should be Left Blank
+Not Passed
+Not PassedUse Headings to Show Hierarchical Relationships of Content
+Not Passed
+Not PassedJump Straight to the Content Using the main Element
+Not Passed
+Not PassedWrap Content in the article Element
+Not Passed
+Not PassedMake Screen Reader Navigation Easier with the header Landmark
+Not Passed
+Not PassedMake Screen Reader Navigation Easier with the nav Landmark
+Not Passed
+Not PassedMake Screen Reader Navigation Easier with the footer Landmark
+Not Passed
+Not PassedImprove Accessibility of Audio Content with the audio Element
+Not Passed
+Not PassedImprove Chart Accessibility with the figure Element
+Not Passed
+Not PassedImprove Form Field Accessibility with the label Element
+Not Passed
+Not PassedWrap Radio Buttons in a fieldset Element for Better Accessibility
+Not Passed
+Not PassedAdd an Accessible Date Picker
+Not Passed
+Not PassedStandardize Times with the HTML5 datetime Attribute
+Not Passed
+Not PassedMake Elements Only Visible to a Screen Reader by Using Custom CSS
+Not Passed
+Not PassedImprove Readability with High Contrast Text
+Not Passed
+Not PassedAvoid Colorblindness Issues by Using Sufficient Contrast
+Not Passed
+Not PassedAvoid Colorblindness Issues by Carefully Choosing Colors that Convey Information
+Not Passed
+Not PassedGive Links Meaning by Using Descriptive Link Text
+Not Passed
+Not PassedMake Links Navigatable with HTML Access Keys
+Not Passed
+Not PassedUse tabindex to Add Keyboard Focus to an Element
+Not Passed
+Not PassedUse tabindex to Specify the Order of Keyboard Focus for Several Elements
+Responsive Web Design Principles
+Introduction to the Responsive Web Design Challenges
+Not Passed
+Not PassedCreate a Media Query
+Not Passed
+Not PassedMake an Image Responsive
+Not Passed
+Not PassedUse a Retina Image for Higher Resolution Displays
+Not Passed
+Not PassedMake Typography Responsive
+CSS Flexbox
+Introduction to the CSS Flexbox Challenges
+Not Passed
+Not PassedUse display: flex to Position Two Boxes
+Not Passed
+Not PassedAdd Flex Superpowers to the Tweet Embed
+Not Passed
+Not PassedUse the flex-direction Property to Make a Row
+Not Passed
+Not PassedApply the flex-direction Property to Create Rows in the Tweet Embed
+Not Passed
+Not PassedUse the flex-direction Property to Make a Column
+Not Passed
+Not PassedApply the flex-direction Property to Create a Column in the Tweet Embed
+Not Passed
+Not PassedAlign Elements Using the justify-content Property
+Not Passed
+Not PassedUse the justify-content Property in the Tweet Embed
+Not Passed
+Not PassedAlign Elements Using the align-items Property
+Not Passed
+Not PassedUse the align-items Property in the Tweet Embed
+Not Passed
+Not PassedUse the flex-wrap Property to Wrap a Row or Column
+Not Passed
+Not PassedUse the flex-shrink Property to Shrink Items
+Not Passed
+Not PassedUse the flex-grow Property to Expand Items
+Not Passed
+Not PassedUse the flex-basis Property to Set the Initial Size of an Item
+Not Passed
+Not PassedUse the flex Shorthand Property
+Not Passed
+Not PassedUse the order Property to Rearrange Items
+Not Passed
+Not PassedUse the align-self Property
+CSS Grid
+Introduction to the CSS Grid Challenges
+Not Passed
+Not PassedCreate Your First CSS Grid
+Not Passed
+Not PassedAdd Columns with grid-template-columns
+Not Passed
+Not PassedAdd Rows with grid-template-rows
+Not Passed
+Not PassedUse CSS Grid units to Change the Size of Columns and Rows
+Not Passed
+Not PassedCreate a Column Gap Using grid-column-gap
+Not Passed
+Not PassedCreate a Row Gap using grid-row-gap
+Not Passed
+Not PassedAdd Gaps Faster with grid-gap
+Not Passed
+Not PassedUse grid-column to Control Spacing
+Not Passed
+Not PassedUse grid-row to Control Spacing
+Not Passed
+Not PassedAlign an Item Horizontally using justify-self
+Not Passed
+Not PassedAlign an Item Vertically using align-self
+Not Passed
+Not PassedAlign All Items Horizontally using justify-items
+Not Passed
+Not PassedAlign All Items Vertically using align-items
+Not Passed
+Not PassedDivide the Grid Into an Area Template
+Not Passed
+Not PassedPlace Items in Grid Areas Using the grid-area Property
+Not Passed
+Not PassedUse grid-area Without Creating an Areas Template
+Not Passed
+Not PassedReduce Repetition Using the repeat Function
+Not Passed
+Not PassedLimit Item Size Using the minmax Function
+Not Passed
+Not PassedCreate Flexible Layouts Using auto-fill
+Not Passed
+Not PassedCreate Flexible Layouts Using auto-fit
+Not Passed
+Not PassedUse Media Queries to Create Responsive Layouts
+Not Passed
+Not PassedCreate Grids within Grids
+Responsive Web Design Projects
+Introduction to the Responsive Web Design Projects
+Not Passed
+Not PassedBuild a Tribute Page
+Not Passed
+Not PassedBuild a Survey Form
+Not Passed
+Not PassedBuild a Product Landing Page
+Not Passed
+Not PassedBuild a Technical Documentation Page
+Not Passed
+Not PassedBuild a Personal Portfolio Webpage
+Javascript Algorithms And Data Structures Certification (300 hours)
+Basic JavaScript
+Introduction to JavaScript
+Not Passed
+Not PassedComment Your JavaScript Code
+Not Passed
+Not PassedDeclare JavaScript Variables
+Not Passed
+Not PassedStoring Values with the Assignment Operator
+Not Passed
+Not PassedInitializing Variables with the Assignment Operator
+Not Passed
+Not PassedUnderstanding Uninitialized Variables
+Not Passed
+Not PassedUnderstanding Case Sensitivity in Variables
+Not Passed
+Not PassedAdd Two Numbers with JavaScript
+Not Passed
+Not PassedSubtract One Number from Another with JavaScript
+Not Passed
+Not PassedMultiply Two Numbers with JavaScript
+Not Passed
+Not PassedDivide One Number by Another with JavaScript
+Not Passed
+Not PassedIncrement a Number with JavaScript
+Not Passed
+Not PassedDecrement a Number with JavaScript
+Not Passed
+Not PassedCreate Decimal Numbers with JavaScript
+Not Passed
+Not PassedMultiply Two Decimals with JavaScript
+Not Passed
+Not PassedDivide One Decimal by Another with JavaScript
+Not Passed
+Not PassedFinding a Remainder in JavaScript
+Not Passed
+Not PassedCompound Assignment With Augmented Addition
+Not Passed
+Not PassedCompound Assignment With Augmented Subtraction
+Not Passed
+Not PassedCompound Assignment With Augmented Multiplication
+Not Passed
+Not PassedCompound Assignment With Augmented Division
+Not Passed
+Not PassedDeclare String Variables
+Not Passed
+Not PassedEscaping Literal Quotes in Strings
+Not Passed
+Not PassedQuoting Strings with Single Quotes
+Not Passed
+Not PassedEscape Sequences in Strings
+Not Passed
+Not PassedConcatenating Strings with Plus Operator
+Not Passed
+Not PassedConcatenating Strings with the Plus Equals Operator
+Not Passed
+Not PassedConstructing Strings with Variables
+Not Passed
+Not PassedAppending Variables to Strings
+Not Passed
+Not PassedFind the Length of a String
+Not Passed
+Not PassedUse Bracket Notation to Find the First Character in a String
+Not Passed
+Not PassedUnderstand String Immutability
+Not Passed
+Not PassedUse Bracket Notation to Find the Nth Character in a String
+Not Passed
+Not PassedUse Bracket Notation to Find the Last Character in a String
+Not Passed
+Not PassedUse Bracket Notation to Find the Nth-to-Last Character in a String
+Not Passed
+Not PassedWord Blanks
+Not Passed
+Not PassedStore Multiple Values in one Variable using JavaScript Arrays
+Not Passed
+Not PassedNest one Array within Another Array
+Not Passed
+Not PassedAccess Array Data with Indexes
+Not Passed
+Not PassedModify Array Data With Indexes
+Not Passed
+Not PassedAccess Multi-Dimensional Arrays With Indexes
+Not Passed
+Not PassedManipulate Arrays With push()
+Not Passed
+Not PassedManipulate Arrays With pop()
+Not Passed
+Not PassedManipulate Arrays With shift()
+Not Passed
+Not PassedManipulate Arrays With unshift()
+Not Passed
+Not PassedShopping List
+Not Passed
+Not PassedWrite Reusable JavaScript with Functions
+Not Passed
+Not PassedPassing Values to Functions with Arguments
+Not Passed
+Not PassedGlobal Scope and Functions
+Not Passed
+Not PassedLocal Scope and Functions
+Not Passed
+Not PassedGlobal vs. Local Scope in Functions
+Not Passed
+Not PassedReturn a Value from a Function with Return
+Not Passed
+Not PassedUnderstanding Undefined Value returned from a Function
+Not Passed
+Not PassedAssignment with a Returned Value
+Not Passed
+Not PassedStand in Line
+Not Passed
+Not PassedUnderstanding Boolean Values
+Not Passed
+Not PassedUse Conditional Logic with If Statements
+Not Passed
+Not PassedComparison with the Equality Operator
+Not Passed
+Not PassedComparison with the Strict Equality Operator
+Not Passed
+Not PassedPractice comparing different values
+Not Passed
+Not PassedComparison with the Inequality Operator
+Not Passed
+Not PassedComparison with the Strict Inequality Operator
+Not Passed
+Not PassedComparison with the Greater Than Operator
+Not Passed
+Not PassedComparison with the Greater Than Or Equal To Operator
+Not Passed
+Not PassedComparison with the Less Than Operator
+Not Passed
+Not PassedComparison with the Less Than Or Equal To Operator
+Not Passed
+Not PassedComparisons with the Logical And Operator
+Not Passed
+Not PassedComparisons with the Logical Or Operator
+Not Passed
+Not PassedIntroducing Else Statements
+Not Passed
+Not PassedIntroducing Else If Statements
+Not Passed
+Not PassedLogical Order in If Else Statements
+Not Passed
+Not PassedChaining If Else Statements
+Not Passed
+Not PassedGolf Code
+Not Passed
+Not PassedSelecting from Many Options with Switch Statements
+Not Passed
+Not PassedAdding a Default Option in Switch Statements
+Not Passed
+Not PassedMultiple Identical Options in Switch Statements
+Not Passed
+Not PassedReplacing If Else Chains with Switch
+Not Passed
+Not PassedReturning Boolean Values from Functions
+Not Passed
+Not PassedReturn Early Pattern for Functions
+Not Passed
+Not PassedCounting Cards
+Not Passed
+Not PassedBuild JavaScript Objects
+Not Passed
+Not PassedAccessing Object Properties with Dot Notation
+Not Passed
+Not PassedAccessing Object Properties with Bracket Notation
+Not Passed
+Not PassedAccessing Object Properties with Variables
+Not Passed
+Not PassedUpdating Object Properties
+Not Passed
+Not PassedAdd New Properties to a JavaScript Object
+Not Passed
+Not PassedDelete Properties from a JavaScript Object
+Not Passed
+Not PassedUsing Objects for Lookups
+Not Passed
+Not PassedTesting Objects for Properties
+Not Passed
+Not PassedManipulating Complex Objects
+Not Passed
+Not PassedAccessing Nested Objects
+Not Passed
+Not PassedAccessing Nested Arrays
+Not Passed
+Not PassedRecord Collection
+Not Passed
+Not PassedIterate with JavaScript While Loops
+Not Passed
+Not PassedIterate with JavaScript For Loops
+Not Passed
+Not PassedIterate Odd Numbers With a For Loop
+Not Passed
+Not PassedCount Backwards With a For Loop
+Not Passed
+Not PassedIterate Through an Array with a For Loop
+Not Passed
+Not PassedNesting For Loops
+Not Passed
+Not PassedIterate with JavaScript Do...While Loops
+Not Passed
+Not PassedProfile Lookup
+Not Passed
+Not PassedGenerate Random Fractions with JavaScript
+Not Passed
+Not PassedGenerate Random Whole Numbers with JavaScript
+Not Passed
+Not PassedGenerate Random Whole Numbers within a Range
+Not Passed
+Not PassedUse the parseInt Function
+Not Passed
+Not PassedUse the parseInt Function with a Radix
+Not Passed
+Not PassedUse the Conditional (Ternary) Operator
+Not Passed
+Not PassedUse Multiple Conditional (Ternary) Operators
+ES6
+Introduction to the ES6 Challenges
+Not Passed
+Not PassedExplore Differences Between the var and let Keywords
+Not Passed
+Not PassedCompare Scopes of the var and let Keywords
+Not Passed
+Not PassedDeclare a Read-Only Variable with the const Keyword
+Not Passed
+Not PassedMutate an Array Declared with const
+Not Passed
+Not PassedPrevent Object Mutation
+Not Passed
+Not PassedUse Arrow Functions to Write Concise Anonymous Functions
+Not Passed
+Not PassedWrite Arrow Functions with Parameters
+Not Passed
+Not PassedWrite Higher Order Arrow Functions
+Not Passed
+Not PassedSet Default Parameters for Your Functions
+Not Passed
+Not PassedUse the Rest Operator with Function Parameters
+Not Passed
+Not PassedUse the Spread Operator to Evaluate Arrays In-Place
+Not Passed
+Not PassedUse Destructuring Assignment to Assign Variables from Objects
+Not Passed
+Not PassedUse Destructuring Assignment to Assign Variables from Nested Objects
+Not Passed
+Not PassedUse Destructuring Assignment to Assign Variables from Arrays
+Not Passed
+Not PassedUse Destructuring Assignment with the Rest Operator to Reassign Array Elements
+Not Passed
+Not PassedUse Destructuring Assignment to Pass an Object as a Function's Parameters
+Not Passed
+Not PassedCreate Strings using Template Literals
+Not Passed
+Not PassedWrite Concise Object Literal Declarations Using Simple Fields
+Not Passed
+Not PassedWrite Concise Declarative Functions with ES6
+Not Passed
+Not PassedUse class Syntax to Define a Constructor Function
+Not Passed
+Not PassedUse getters and setters to Control Access to an Object
+Not Passed
+Not PassedUnderstand the Differences Between import and require
+Not Passed
+Not PassedUse export to Reuse a Code Block
+Not Passed
+Not PassedUse * to Import Everything from a File
+Not Passed
+Not PassedCreate an Export Fallback with export default
+Not Passed
+Not PassedImport a Default Export
+Regular Expressions
+Introduction to the Regular Expression Challenges
+Not Passed
+Not PassedUsing the Test Method
+Not Passed
+Not PassedMatch Literal Strings
+Not Passed
+Not PassedMatch a Literal String with Different Possibilities
+Not Passed
+Not PassedIgnore Case While Matching
+Not Passed
+Not PassedExtract Matches
+Not Passed
+Not PassedFind More Than the First Match
+Not Passed
+Not PassedMatch Anything with Wildcard Period
+Not Passed
+Not PassedMatch Single Character with Multiple Possibilities
+Not Passed
+Not PassedMatch Letters of the Alphabet
+Not Passed
+Not PassedMatch Numbers and Letters of the Alphabet
+Not Passed
+Not PassedMatch Single Characters Not Specified
+Not Passed
+Not PassedMatch Characters that Occur One or More Times
+Not Passed
+Not PassedMatch Characters that Occur Zero or More Times
+Not Passed
+Not PassedFind Characters with Lazy Matching
+Not Passed
+Not PassedFind One or More Criminals in a Hunt
+Not Passed
+Not PassedMatch Beginning String Patterns
+Not Passed
+Not PassedMatch Ending String Patterns
+Not Passed
+Not PassedMatch All Letters and Numbers
+Not Passed
+Not PassedMatch Everything But Letters and Numbers
+Not Passed
+Not PassedMatch All Numbers
+Not Passed
+Not PassedMatch All Non-Numbers
+Not Passed
+Not PassedRestrict Possible Usernames
+Not Passed
+Not PassedMatch Whitespace
+Not Passed
+Not PassedMatch Non-Whitespace Characters
+Not Passed
+Not PassedSpecify Upper and Lower Number of Matches
+Not Passed
+Not PassedSpecify Only the Lower Number of Matches
+Not Passed
+Not PassedSpecify Exact Number of Matches
+Not Passed
+Not PassedCheck for All or None
+Not Passed
+Not PassedPositive and Negative Lookahead
+Not Passed
+Not PassedReuse Patterns Using Capture Groups
+Not Passed
+Not PassedUse Capture Groups to Search and Replace
+Not Passed
+Not PassedRemove Whitespace from Start and End
+Debugging
+Introduction to the Debugging Challenges
+Not Passed
+Not PassedUse the JavaScript Console to Check the Value of a Variable
+Not Passed
+Not PassedUnderstanding the Differences between the freeCodeCamp and Browser Console
+Not Passed
+Not PassedUse typeof to Check the Type of a Variable
+Not Passed
+Not PassedCatch Misspelled Variable and Function Names
+Not Passed
+Not PassedCatch Unclosed Parentheses, Brackets, Braces and Quotes
+Not Passed
+Not PassedCatch Mixed Usage of Single and Double Quotes
+Not Passed
+Not PassedCatch Use of Assignment Operator Instead of Equality Operator
+Not Passed
+Not PassedCatch Missing Open and Closing Parenthesis After a Function Call
+Not Passed
+Not PassedCatch Arguments Passed in the Wrong Order When Calling a Function
+Not Passed
+Not PassedCatch Off By One Errors When Using Indexing
+Not Passed
+Not PassedUse Caution When Reinitializing Variables Inside a Loop
+Not Passed
+Not PassedPrevent Infinite Loops with a Valid Terminal Condition
+Basic Data Structures
+Introduction to the Basic Data Structure Challenges
+Not Passed
+Not PassedUse an Array to Store a Collection of Data
+Not Passed
+Not PassedAccess an Array's Contents Using Bracket Notation
+Not Passed
+Not PassedAdd Items to an Array with push() and unshift()
+Not Passed
+Not PassedRemove Items from an Array with pop() and shift()
+Not Passed
+Not PassedRemove Items Using splice()
+Not Passed
+Not PassedAdd Items Using splice()
+Not Passed
+Not PassedCopy Array Items Using slice()
+Not Passed
+Not PassedCopy an Array with the Spread Operator
+Not Passed
+Not PassedCombine Arrays with the Spread Operator
+Not Passed
+Not PassedCheck For The Presence of an Element With indexOf()
+Not Passed
+Not PassedIterate Through All an Array's Items Using For Loops
+Not Passed
+Not PassedCreate complex multi-dimensional arrays
+Not Passed
+Not PassedAdd Key-Value Pairs to JavaScript Objects
+Not Passed
+Not PassedModify an Object Nested Within an Object
+Not Passed
+Not PassedAccess Property Names with Bracket Notation
+Not Passed
+Not PassedUse the delete Keyword to Remove Object Properties
+Not Passed
+Not PassedCheck if an Object has a Property
+Not Passed
+Not Passed Iterate Through the Keys of an Object with a for...in Statement
+Not Passed
+Not PassedGenerate an Array of All Object Keys with Object.keys()
+Not Passed
+Not PassedModify an Array Stored in an Object
+Basic Algorithm Scripting
+Introduction to Basic Algorithm Scripting
+Not Passed
+Not PassedConvert Celsius to Fahrenheit
+Not Passed
+Not PassedReverse a String
+Not Passed
+Not PassedFactorialize a Number
+Not Passed
+Not PassedFind the Longest Word in a String
+Not Passed
+Not PassedReturn Largest Numbers in Arrays
+Not Passed
+Not PassedConfirm the Ending
+Not Passed
+Not PassedRepeat a String Repeat a String
+Not Passed
+Not PassedTruncate a String
+Not Passed
+Not PassedFinders Keepers
+Not Passed
+Not PassedBoo who
+Not Passed
+Not PassedTitle Case a Sentence
+Not Passed
+Not PassedSlice and Splice
+Not Passed
+Not PassedFalsy Bouncer
+Not Passed
+Not PassedWhere do I Belong
+Not Passed
+Not PassedMutations
+Not Passed
+Not PassedChunky Monkey
+Object Oriented Programming
+Introduction to the Object Oriented Programming Challenges
+Not Passed
+Not PassedCreate a Basic JavaScript Object
+Not Passed
+Not PassedUse Dot Notation to Access the Properties of an Object
+Not Passed
+Not PassedCreate a Method on an Object
+Not Passed
+Not PassedMake Code More Reusable with the this Keyword
+Not Passed
+Not PassedDefine a Constructor Function
+Not Passed
+Not PassedUse a Constructor to Create Objects
+Not Passed
+Not PassedExtend Constructors to Receive Arguments
+Not Passed
+Not PassedVerify an Object's Constructor with instanceof
+Not Passed
+Not PassedUnderstand Own Properties
+Not Passed
+Not PassedUse Prototype Properties to Reduce Duplicate Code
+Not Passed
+Not PassedIterate Over All Properties
+Not Passed
+Not PassedUnderstand the Constructor Property
+Not Passed
+Not PassedChange the Prototype to a New Object
+Not Passed
+Not PassedRemember to Set the Constructor Property when Changing the Prototype
+Not Passed
+Not PassedUnderstand Where an Object’s Prototype Comes From
+Not Passed
+Not PassedUnderstand the Prototype Chain
+Not Passed
+Not PassedUse Inheritance So You Don't Repeat Yourself
+Not Passed
+Not PassedInherit Behaviors from a Supertype
+Not Passed
+Not PassedSet the Child's Prototype to an Instance of the Parent
+Not Passed
+Not PassedReset an Inherited Constructor Property
+Not Passed
+Not PassedAdd Methods After Inheritance
+Not Passed
+Not PassedOverride Inherited Methods
+Not Passed
+Not PassedUse a Mixin to Add Common Behavior Between Unrelated Objects
+Not Passed
+Not PassedUse Closure to Protect Properties Within an Object from Being Modified Externally
+Not Passed
+Not PassedUnderstand the Immediately Invoked Function Expression (IIFE)
+Not Passed
+Not PassedUse an IIFE to Create a Module
+Functional Programming
+Introduction to the Functional Programming Challenges
+Not Passed
+Not PassedLearn About Functional Programming
+Not Passed
+Not PassedUnderstand Functional Programming Terminology
+Not Passed
+Not PassedUnderstand the Hazards of Using Imperative Code
+Not Passed
+Not PassedAvoid Mutations and Side Effects Using Functional Programming
+Not Passed
+Not PassedPass Arguments to Avoid External Dependence in a Function
+Not Passed
+Not PassedRefactor Global Variables Out of Functions
+Not Passed
+Not PassedUse the map Method to Extract Data from an Array
+Not Passed
+Not PassedImplement map on a Prototype
+Not Passed
+Not PassedUse the filter Method to Extract Data from an Array
+Not Passed
+Not PassedImplement the filter Method on a Prototype
+Not Passed
+Not PassedReturn Part of an Array Using the slice Method
+Not Passed
+Not PassedRemove Elements from an Array Using slice Instead of splice
+Not Passed
+Not PassedCombine Two Arrays Using the concat Method
+Not Passed
+Not PassedAdd Elements to the End of an Array Using concat Instead of push
+Not Passed
+Not PassedUse the reduce Method to Analyze Data
+Not Passed
+Not PassedSort an Array Alphabetically using the sort Method
+Not Passed
+Not PassedReturn a Sorted Array Without Changing the Original Array
+Not Passed
+Not PassedSplit a String into an Array Using the split Method
+Not Passed
+Not PassedCombine an Array into a String Using the join Method
+Not Passed
+Not PassedApply Functional Programming to Convert Strings to URL Slugs
+Not Passed
+Not PassedUse the every Method to Check that Every Element in an Array Meets a Criteria
+Not Passed
+Not PassedUse the some Method to Check that Any Elements in an Array Meet a Criteria
+Not Passed
+Not PassedIntroduction to Currying and Partial Application
+Intermediate Algorithm Scripting
+Introduction to the Intermediate Algorithm Scripting Challenges
+Not Passed
+Not PassedSum All Numbers in a Range
+Not Passed
+Not PassedDiff Two Arrays
+Not Passed
+Not PassedSeek and Destroy
+Not Passed
+Not PassedWherefore art thou
+Not Passed
+Not PassedSpinal Tap Case
+Not Passed
+Not PassedPig Latin
+Not Passed
+Not PassedSearch and Replace
+Not Passed
+Not PassedDNA Pairing
+Not Passed
+Not PassedMissing letters
+Not Passed
+Not PassedSorted Union
+Not Passed
+Not PassedConvert HTML Entities
+Not Passed
+Not PassedSum All Odd Fibonacci Numbers
+Not Passed
+Not PassedSum All Primes
+Not Passed
+Not PassedSmallest Common Multiple
+Not Passed
+Not PassedDrop it
+Not Passed
+Not PassedSteamroller
+Not Passed
+Not PassedBinary Agents
+Not Passed
+Not PassedEverything Be True
+Not Passed
+Not PassedArguments Optional
+Not Passed
+Not PassedMake a Person
+Not Passed
+Not PassedMap the Debris
+JavaScript Algorithms and Data Structures Projects
+Introduction to the JavaScript Algorithms and Data Structures Projects
+Not Passed
+Not PassedPalindrome Checker
+Not Passed
+Not PassedRoman Numeral Converter
+Not Passed
+Not PassedCaesars Cipher
+Not Passed
+Not PassedTelephone Number Validator
+Not Passed
+Not PassedCash Register
+Front End Libraries Certification (300 hours)
+Bootstrap
+Introduction to the Bootstrap Challenges
+Not Passed
+Not PassedUse Responsive Design with Bootstrap Fluid Containers
+Not Passed
+Not PassedMake Images Mobile Responsive
+Not Passed
+Not PassedCenter Text with Bootstrap
+Not Passed
+Not PassedCreate a Bootstrap Button
+Not Passed
+Not PassedCreate a Block Element Bootstrap Button
+Not Passed
+Not PassedTaste the Bootstrap Button Color Rainbow
+Not Passed
+Not PassedCall out Optional Actions with btn-info
+Not Passed
+Not PassedWarn Your Users of a Dangerous Action with btn-danger
+Not Passed
+Not PassedUse the Bootstrap Grid to Put Elements Side By Side
+Not Passed
+Not PassedDitch Custom CSS for Bootstrap
+Not Passed
+Not PassedUse a span to Target Inline Elements
+Not Passed
+Not PassedCreate a Custom Heading
+Not Passed
+Not PassedAdd Font Awesome Icons to our Buttons
+Not Passed
+Not PassedAdd Font Awesome Icons to all of our Buttons
+Not Passed
+Not PassedResponsively Style Radio Buttons
+Not Passed
+Not PassedResponsively Style Checkboxes
+Not Passed
+Not PassedStyle Text Inputs as Form Controls
+Not Passed
+Not PassedLine up Form Elements Responsively with Bootstrap
+Not Passed
+Not PassedCreate a Bootstrap Headline
+Not Passed
+Not PassedHouse our page within a Bootstrap container-fluid div
+Not Passed
+Not PassedCreate a Bootstrap Row
+Not Passed
+Not PassedSplit Your Bootstrap Row
+Not Passed
+Not PassedCreate Bootstrap Wells
+Not Passed
+Not PassedAdd Elements within Your Bootstrap Wells
+Not Passed
+Not PassedApply the Default Bootstrap Button Style
+Not Passed
+Not PassedCreate a Class to Target with jQuery Selectors
+Not Passed
+Not PassedAdd id Attributes to Bootstrap Elements
+Not Passed
+Not PassedLabel Bootstrap Wells
+Not Passed
+Not PassedGive Each Element a Unique id
+Not Passed
+Not PassedLabel Bootstrap Buttons
+Not Passed
+Not PassedUse Comments to Clarify Code
+jQuery
+Introduction to jQuery
+Not Passed
+Not PassedLearn How Script Tags and Document Ready Work
+Not Passed
+Not PassedTarget HTML Elements with Selectors Using jQuery
+Not Passed
+Not PassedTarget Elements by Class Using jQuery
+Not Passed
+Not PassedTarget Elements by id Using jQuery
+Not Passed
+Not PassedDelete Your jQuery Functions
+Not Passed
+Not PassedTarget the Same Element with Multiple jQuery Selectors
+Not Passed
+Not PassedRemove Classes from an Element with jQuery
+Not Passed
+Not PassedChange the CSS of an Element Using jQuery
+Not Passed
+Not PassedDisable an Element Using jQuery
+Not Passed
+Not PassedChange Text Inside an Element Using jQuery
+Not Passed
+Not PassedRemove an Element Using jQuery
+Not Passed
+Not PassedUse appendTo to Move Elements with jQuery
+Not Passed
+Not PassedClone an Element Using jQuery
+Not Passed
+Not PassedTarget the Parent of an Element Using jQuery
+Not Passed
+Not PassedTarget the Children of an Element Using jQuery
+Not Passed
+Not PassedTarget a Specific Child of an Element Using jQuery
+Not Passed
+Not PassedTarget Even Elements Using jQuery
+Not Passed
+Not PassedUse jQuery to Modify the Entire Page
+Sass
+Introduction to the Sass Challenges
+Not Passed
+Not PassedStore Data with Sass Variables
+Not Passed
+Not PassedNest CSS with Sass
+Not Passed
+Not PassedCreate Reusable CSS with Mixins
+Not Passed
+Not PassedUse @if and @else to Add Logic To Your Styles
+Not Passed
+Not PassedUse @for to Create a Sass Loop
+Not Passed
+Not PassedUse @each to Map Over Items in a List
+Not Passed
+Not PassedApply a Style Until a Condition is Met with @while
+Not Passed
+Not PassedSplit Your Styles into Smaller Chunks with Partials
+Not Passed
+Not PassedExtend One Set of CSS Styles to Another Element
+React
+Introduction to the React Challenges
+Not Passed
+Not PassedCreate a Simple JSX Element
+Not Passed
+Not PassedCreate a Complex JSX Element
+Not Passed
+Not PassedAdd Comments in JSX
+Not Passed
+Not PassedRender HTML Elements to the DOM
+Not Passed
+Not PassedDefine an HTML Class in JSX
+Not Passed
+Not PassedLearn About Self-Closing JSX Tags
+Not Passed
+Not PassedCreate a Stateless Functional Component
+Not Passed
+Not PassedCreate a React Component
+Not Passed
+Not PassedCreate a Component with Composition
+Not Passed
+Not PassedUse React to Render Nested Components
+Not Passed
+Not PassedCompose React Components
+Not Passed
+Not PassedRender a Class Component to the DOM
+Not Passed
+Not PassedWrite a React Component from Scratch
+Not Passed
+Not PassedPass Props to a Stateless Functional Component
+Not Passed
+Not PassedPass an Array as Props
+Not Passed
+Not PassedUse Default Props
+Not Passed
+Not PassedOverride Default Props
+Not Passed
+Not PassedUse PropTypes to Define the Props You Expect
+Not Passed
+Not PassedAccess Props Using this.props
+Not Passed
+Not PassedReview Using Props with Stateless Functional Components
+Not Passed
+Not PassedCreate a Stateful Component
+Not Passed
+Not PassedRender State in the User Interface
+Not Passed
+Not PassedRender State in the User Interface Another Way
+Not Passed
+Not PassedSet State with this.setState
+Not Passed
+Not PassedBind 'this' to a Class Method
+Not Passed
+Not PassedUse State to Toggle an Element
+Not Passed
+Not PassedWrite a Simple Counter
+Not Passed
+Not PassedCreate a Controlled Input
+Not Passed
+Not PassedCreate a Controlled Form
+Not Passed
+Not PassedPass State as Props to Child Components
+Not Passed
+Not PassedPass a Callback as Props
+Not Passed
+Not PassedUse the Lifecycle Method componentWillMount
+Not Passed
+Not PassedUse the Lifecycle Method componentDidMount
+Not Passed
+Not PassedAdd Event Listeners
+Not Passed
+Not PassedManage Updates with Lifecycle Methods
+Not Passed
+Not PassedOptimize Re-Renders with shouldComponentUpdate
+Not Passed
+Not PassedIntroducing Inline Styles
+Not Passed
+Not PassedAdd Inline Styles in React
+Not Passed
+Not PassedUse Advanced JavaScript in React Render Method
+Not Passed
+Not PassedRender with an If/Else Condition
+Not Passed
+Not PassedUse && for a More Concise Conditional
+Not Passed
+Not PassedUse a Ternary Expression for Conditional Rendering
+Not Passed
+Not PassedRender Conditionally from Props
+Not Passed
+Not PassedChange Inline CSS Conditionally Based on Component State
+Not Passed
+Not PassedUse Array.map() to Dynamically Render Elements
+Not Passed
+Not PassedGive Sibling Elements a Unique Key Attribute
+Not Passed
+Not PassedUse Array.filter() to Dynamically Filter an Array
+Not Passed
+Not PassedRender React on the Server with renderToString
+Redux
+Introduction to the Redux Challenges
+Not Passed
+Not PassedCreate a Redux Store
+Not Passed
+Not PassedGet State from the Redux Store
+Not Passed
+Not PassedDefine a Redux Action
+Not Passed
+Not PassedDefine an Action Creator
+Not Passed
+Not PassedDispatch an Action Event
+Not Passed
+Not PassedHandle an Action in the Store
+Not Passed
+Not PassedUse a Switch Statement to Handle Multiple Actions
+Not Passed
+Not PassedUse const for Action Types
+Not Passed
+Not PassedRegister a Store Listener
+Not Passed
+Not PassedCombine Multiple Reducers
+Not Passed
+Not PassedSend Action Data to the Store
+Not Passed
+Not PassedUse Middleware to Handle Asynchronous Actions
+Not Passed
+Not PassedWrite a Counter with Redux
+Not Passed
+Not PassedNever Mutate State
+Not Passed
+Not PassedUse the Spread Operator on Arrays
+Not Passed
+Not PassedRemove an Item from an Array
+Not Passed
+Not PassedCopy an Object with Object.assign
+React and Redux
+Introduction to the React and Redux Challenges
+Not Passed
+Not PassedGetting Started with React Redux
+Not Passed
+Not PassedManage State Locally First
+Not Passed
+Not PassedExtract State Logic to Redux
+Not Passed
+Not PassedUse Provider to Connect Redux to React
+Not Passed
+Not PassedMap State to Props
+Not Passed
+Not PassedMap Dispatch to Props
+Not Passed
+Not PassedConnect Redux to React
+Not Passed
+Not PassedConnect Redux to the Messages App
+Not Passed
+Not PassedExtract Local State into Redux
+Not Passed
+Not PassedMoving Forward From Here
+Front End Libraries Projects
+Introduction to the Front End Libraries Projects
+Not Passed
+Not PassedBuild a Random Quote Machine
+Not Passed
+Not PassedBuild a Markdown Previewer
+Not Passed
+Not PassedBuild a Drum Machine
+Not Passed
+Not PassedBuild a JavaScript Calculator
+Not Passed
+Not PassedBuild a Pomodoro Clock
+Data Visualization Certification (300 hours)
+Data Visualization with D3
+Introduction to the Data Visualization with D3 Challenges
+Not Passed
+Not PassedAdd Document Elements with D3
+Not Passed
+Not PassedSelect a Group of Elements with D3
+Not Passed
+Not PassedWork with Data in D3
+Not Passed
+Not PassedWork with Dynamic Data in D3
+Not Passed
+Not PassedAdd Inline Styling to Elements
+Not Passed
+Not PassedChange Styles Based on Data
+Not Passed
+Not PassedAdd Classes with D3
+Not Passed
+Not PassedUpdate the Height of an Element Dynamically
+Not Passed
+Not PassedChange the Presentation of a Bar Chart
+Not Passed
+Not PassedLearn About SVG in D3
+Not Passed
+Not PassedDisplay Shapes with SVG
+Not Passed
+Not PassedCreate a Bar for Each Data Point in the Set
+Not Passed
+Not PassedDynamically Set the Coordinates for Each Bar
+Not Passed
+Not PassedDynamically Change the Height of Each Bar
+Not Passed
+Not PassedInvert SVG Elements
+Not Passed
+Not PassedChange the Color of an SVG Element
+Not Passed
+Not PassedAdd Labels to D3 Elements
+Not Passed
+Not PassedStyle D3 Labels
+Not Passed
+Not PassedAdd a Hover Effect to a D3 Element
+Not Passed
+Not PassedAdd a Tooltip to a D3 Element
+Not Passed
+Not PassedCreate a Scatterplot with SVG Circles
+Not Passed
+Not PassedAdd Attributes to the Circle Elements
+Not Passed
+Not PassedAdd Labels to Scatter Plot Circles
+Not Passed
+Not PassedCreate a Linear Scale with D3
+Not Passed
+Not PassedSet a Domain and a Range on a Scale
+Not Passed
+Not PassedUse the d3.max and d3.min Functions to Find Minimum and Maximum Values in a Dataset
+Not Passed
+Not PassedUse Dynamic Scales
+Not Passed
+Not PassedUse a Pre-Defined Scale to Place Elements
+Not Passed
+Not PassedAdd Axes to a Visualization
+JSON APIs and Ajax
+Introduction to the JSON APIs and AJAX Challenges
+Not Passed
+Not PassedHandle Click Events with JavaScript using the onclick property
+Not Passed
+Not PassedChange Text with click Events
+Not Passed
+Not PassedGet JSON with the JavaScript XMLHttpRequest Method
+Not Passed
+Not PassedAccess the JSON Data from an API
+Not Passed
+Not PassedConvert JSON Data to HTML
+Not Passed
+Not PassedRender Images from Data Sources
+Not Passed
+Not PassedPre-filter JSON to Get the Data You Need
+Not Passed
+Not PassedGet Geolocation Data to Find A User's GPS Coordinates
+Not Passed
+Not PassedPost Data with the JavaScript XMLHttpRequest Method
+Data Visualization Projects
+Introduction to the Data Visualization Projects
+Not Passed
+Not PassedVisualize Data with a Bar Chart
+Not Passed
+Not PassedVisualize Data with a Scatterplot Graph
+Not Passed
+Not PassedVisualize Data with a Heat Map
+Not Passed
+Not PassedVisualize Data with a Choropleth Map
+Not Passed
+Not PassedVisualize Data with a Treemap Diagram
+Apis And Microservices Certification (300 hours)
+Managing Packages with Npm
+Introduction to the Managing Packages with npm Challenges
+Not Passed
+Not PassedHow to Use package.json, the Core of Any Node.js Project or npm Package
+Not Passed
+Not PassedAdd a Description to Your package.json
+Not Passed
+Not PassedAdd Keywords to Your package.json
+Not Passed
+Not PassedAdd a License to Your package.json
+Not Passed
+Not PassedAdd a Version to Your package.json
+Not Passed
+Not PassedExpand Your Project with External Packages from npm
+Not Passed
+Not PassedManage npm Dependencies By Understanding Semantic Versioning
+Not Passed
+Not PassedUse the Tilde-Character to Always Use the Latest Patch Version of a Dependency
+Not Passed
+Not PassedUse the Caret-Character to Use the Latest Minor Version of a Dependency
+Not Passed
+Not PassedRemove a Package from Your Dependencies
+Basic Node and Express
+Introduction to the Basic Node and Express Challenges
+Not Passed
+Not PassedMeet the Node console
+Not Passed
+Not PassedStart a Working Express Server
+Not Passed
+Not PassedServe an HTML File
+Not Passed
+Not PassedServe Static Assets
+Not Passed
+Not PassedServe JSON on a Specific Route
+Not Passed
+Not PassedUse the .env File
+Not Passed
+Not PassedImplement a Root-Level Request Logger Middleware
+Not Passed
+Not PassedChain Middleware to Create a Time Server
+Not Passed
+Not PassedGet Route Parameter Input from the Client
+Not Passed
+Not PassedGet Query Parameter Input from the Client
+Not Passed
+Not PassedUse body-parser to Parse POST Requests
+Not Passed
+Not PassedGet Data from POST Requests
+MongoDB and Mongoose
+Introduction to the MongoDB and Mongoose Challenges
+Not Passed
+Not PassedInstall and Set Up Mongoose
+Not Passed
+Not PassedCreate a Model
+Not Passed
+Not PassedCreate and Save a Record of a Model
+Not Passed
+Not PassedCreate Many Records with model.create()
+Not Passed
+Not PassedUse model.find() to Search Your Database
+Not Passed
+Not PassedUse model.findOne() to Return a Single Matching Document from Your Database
+Not Passed
+Not PassedUse model.findById() to Search Your Database By _id
+Not Passed
+Not PassedPerform Classic Updates by Running Find, Edit, then Save
+Not Passed
+Not PassedPerform New Updates on a Document Using model.findOneAndUpdate()
+Not Passed
+Not PassedDelete One Document Using model.findByIdAndRemove
+Not Passed
+Not PassedDelete Many Documents with model.remove()
+Not Passed
+Not PassedChain Search Query Helpers to Narrow Search Results
+Apis and Microservices Projects
+Introduction to the APIs and Microservices Projects
+Not Passed
+Not PassedTimestamp Microservice
+Not Passed
+Not PassedRequest Header Parser Microservice
+Not Passed
+Not PassedURL Shortener Microservice
+Not Passed
+Not PassedExercise Tracker
+Not Passed
+Not PassedFile Metadata Microservice
+Information Security And Quality Assurance Certification (300 hours)
+Information Security with HelmetJS
+Introduction to Information Security with HelmetJS Challenges
+Not Passed
+Not PassedInstall and Require Helmet
+Not Passed
+Not PassedHide Potentially Dangerous Information Using helmet.hidePoweredBy()
+Not Passed
+Not PassedMitigate the Risk of Clickjacking with helmet.frameguard()
+Not Passed
+Not PassedMitigate the Risk of Cross Site Scripting (XSS) Attacks with helmet.xssFilter()
+Not Passed
+Not PassedAvoid Inferring the Response MIME Type with helmet.noSniff()
+Not Passed
+Not PassedPrevent IE from Opening Untrusted HTML with helmet.ieNoOpen()
+Not Passed
+Not PassedAsk Browsers to Access Your Site via HTTPS Only with helmet.hsts()
+Not Passed
+Not PassedDisable DNS Prefetching with helmet.dnsPrefetchControl()
+Not Passed
+Not PassedDisable Client-Side Caching with helmet.noCache()
+Not Passed
+Not PassedSet a Content Security Policy with helmet.contentSecurityPolicy()
+Not Passed
+Not PassedConfigure Helmet Using the ‘parent’ helmet() Middleware
+Not Passed
+Not PassedUnderstand BCrypt Hashes
+Not Passed
+Not PassedHash and Compare Passwords Asynchronously
+Not Passed
+Not PassedHash and Compare Passwords Synchronously
+Quality Assurance and Testing with Chai
+Introduction to the Quality Assurance with Chai Challenges
+Not Passed
+Not PassedLearn How JavaScript Assertions Work
+Not Passed
+Not PassedTest if a Variable or Function is Defined
+Not Passed
+Not PassedUse Assert.isOK and Assert.isNotOK
+Not Passed
+Not PassedTest for Truthiness
+Not Passed
+Not PassedUse the Double Equals to Assert Equality
+Not Passed
+Not PassedUse the Triple Equals to Assert Strict Equality
+Not Passed
+Not PassedAssert Deep Equality with .deepEqual and .notDeepEqual
+Not Passed
+Not PassedCompare the Properties of Two Elements
+Not Passed
+Not PassedTest if One Value is Below or At Least as Large as Another
+Not Passed
+Not PassedTest if a Value Falls within a Specific Range
+Not Passed
+Not PassedTest if a Value is an Array
+Not Passed
+Not PassedTest if an Array Contains an Item
+Not Passed
+Not PassedTest if a Value is a String
+Not Passed
+Not PassedTest if a String Contains a Substring
+Not Passed
+Not PassedUse Regular Expressions to Test a String
+Not Passed
+Not PassedTest if an Object has a Property
+Not Passed
+Not PassedTest if a Value is of a Specific Data Structure Type
+Not Passed
+Not PassedTest if an Object is an Instance of a Constructor
+Not Passed
+Not PassedRun Functional Tests on API Endpoints using Chai-HTTP
+Not Passed
+Not PassedRun Functional Tests on API Endpoints using Chai-HTTP II
+Not Passed
+Not PassedRun Functional Tests on an API Response using Chai-HTTP III - PUT method
+Not Passed
+Not PassedRun Functional Tests on an API Response using Chai-HTTP IV - PUT method
+Not Passed
+Not PassedRun Functional Tests using a Headless Browser
+Not Passed
+Not PassedRun Functional Tests using a Headless Browser II
+Advanced Node and Express
+Introduction to the Advances Node and Express Challenges
+Not Passed
+Not PassedSet up a Template Engine
+Not Passed
+Not PassedUse a Template Engine's Powers
+Not Passed
+Not PassedSet up Passport
+Not Passed
+Not PassedSerialization of a User Object
+Not Passed
+Not PassedImplement the Serialization of a Passport User
+Not Passed
+Not PassedAuthentication Strategies
+Not Passed
+Not PassedHow to Use Passport Strategies
+Not Passed
+Not PassedCreate New Middleware
+Not Passed
+Not PassedHow to Put a Profile Together
+Not Passed
+Not PassedLogging a User Out
+Not Passed
+Not PassedRegistration of New Users
+Not Passed
+Not PassedHashing Your Passwords
+Not Passed
+Not PassedClean Up Your Project with Modules
+Not Passed
+Not PassedImplementation of Social Authentication
+Not Passed
+Not PassedImplementation of Social Authentication II
+Not Passed
+Not PassedImplementation of Social Authentication III
+Not Passed
+Not PassedSet up the Environment
+Not Passed
+Not PassedCommunicate by Emitting
+Not Passed
+Not PassedHandle a Disconnect
+Not Passed
+Not PassedAuthentication with Socket.IO
+Not Passed
+Not PassedAnnounce New Users
+Not Passed
+Not PassedSend and Display Chat Messages
+Information Security and Quality Assurance Projects
+Introduction to the Information Security and Quality Assurance Projects
+Not Passed
+Not PassedMetric-Imperial Converter
+Not Passed
+Not PassedIssue Tracker
+Not Passed
+Not PassedPersonal Library
+Not Passed
+Not PassedStock Price Checker
+Not Passed
+Not PassedAnonymous Message Board
+Coding Interview Prep (Thousands of hours of challenges)
+Algorithms
+Introduction to the Coding Interview Algorithms
+Not Passed
+Not PassedFind the Symmetric Difference
+Not Passed
+Not PassedInventory Update
+Not Passed
+Not PassedNo Repeats Please
+Not Passed
+Not PassedPairwise
+Not Passed
+Not PassedImplement Bubble Sort
+Not Passed
+Not PassedImplement Selection Sort
+Not Passed
+Not PassedImplement Insertion Sort
+Not Passed
+Not PassedImplement Quick Sort
+Not Passed
+Not PassedImplement Merge Sort
+Data Structures
+Introduction to the Coding Interview Data Structure Questions
+Not Passed
+Not PassedTyped Arrays
+Not Passed
+Not PassedLearn how a Stack Works
+Not Passed
+Not PassedCreate a Stack Class
+Not Passed
+Not PassedCreate a Queue Class
+Not Passed
+Not PassedCreate a Priority Queue Class
+Not Passed
+Not PassedCreate a Circular Queue
+Not Passed
+Not PassedCreate a Set Class
+Not Passed
+Not PassedRemove from a Set
+Not Passed
+Not PassedSize of the Set
+Not Passed
+Not PassedPerform a Union on Two Sets
+Not Passed
+Not PassedPerform an Intersection on Two Sets of Data
+Not Passed
+Not PassedPerform a Difference on Two Sets of Data
+Not Passed
+Not PassedPerform a Subset Check on Two Sets of Data
+Not Passed
+Not PassedCreate and Add to Sets in ES6
+Not Passed
+Not PassedRemove items from a set in ES6
+Not Passed
+Not PassedUse .has and .size on an ES6 Set
+Not Passed
+Not PassedUse Spread and Notes for ES5 Set() Integration
+Not Passed
+Not PassedCreate a Map Data Structure
+Not Passed
+Not PassedCreate an ES6 JavaScript Map
+Not Passed
+Not PassedCreate a Hash Table
+Not Passed
+Not PassedWork with Nodes in a Linked List
+Not Passed
+Not PassedCreate a Linked List Class
+Not Passed
+Not PassedRemove Elements from a Linked List
+Not Passed
+Not PassedSearch within a Linked List
+Not Passed
+Not PassedRemove Elements from a Linked List by Index
+Not Passed
+Not PassedAdd Elements at a Specific Index in a Linked List
+Not Passed
+Not PassedCreate a Doubly Linked List
+Not Passed
+Not PassedReverse a Doubly Linked List
+Not Passed
+Not PassedFind the Minimum and Maximum Value in a Binary Search Tree
+Not Passed
+Not PassedAdd a New Element to a Binary Search Tree
+Not Passed
+Not PassedCheck if an Element is Present in a Binary Search Tree
+Not Passed
+Not PassedFind the Minimum and Maximum Height of a Binary Search Tree
+Not Passed
+Not PassedUse Depth First Search in a Binary Search Tree
+Not Passed
+Not PassedUse Breadth First Search in a Binary Search Tree
+Not Passed
+Not PassedDelete a Leaf Node in a Binary Search Tree
+Not Passed
+Not PassedDelete a Node with One Child in a Binary Search Tree
+Not Passed
+Not PassedDelete a Node with Two Children in a Binary Search Tree
+Not Passed
+Not PassedInvert a Binary Tree
+Not Passed
+Not PassedCreate a Trie Search Tree
+Not Passed
+Not PassedInsert an Element into a Max Heap
+Not Passed
+Not PassedRemove an Element from a Max Heap
+Not Passed
+Not PassedImplement Heap Sort with a Min Heap
+Not Passed
+Not PassedAdjacency List
+Not Passed
+Not PassedAdjacency Matrix
+Not Passed
+Not PassedIncidence Matrix
+Not Passed
+Not PassedBreadth-First Search
+Not Passed
+Not PassedDepth-First Search
+Take Home Projects
+Introduction to the Coding Interview Take Home Projects
+Not Passed
+Not PassedShow the Local Weather
+Not Passed
+Not PassedBuild a Wikipedia Viewer
+Not Passed
+Not PassedUse the Twitch JSON API
+Not Passed
+Not PassedBuild an Image Search Abstraction Layer
+Not Passed
+Not PassedBuild a Tic Tac Toe Game
+Not Passed
+Not PassedBuild a Simon Game
+Not Passed
+Not PassedBuild a Camper Leaderboard
+Not Passed
+Not PassedBuild a Recipe Box
+Not Passed
+Not PassedBuild the Game of Life
+Not Passed
+Not PassedBuild a Roguelike Dungeon Crawler Game
+Not Passed
+Not PassedP2P Video Chat Application
+Not Passed
+Not PassedShow National Contiguity with a Force Directed Graph
+Not Passed
+Not PassedMap Data Across the Globe
+Not Passed
+Not PassedManage a Book Trading Club
+Not Passed
+Not PassedBuild a Pinterest Clone
+Not Passed
+Not PassedBuild a Nightlife Coordination App
+Not Passed
+Not PassedChart the Stock Market
+Not Passed
+Not PassedBuild a Voting App
+Not Passed
+Not PassedBuild a Pong Game
+Not Passed
+Not PassedBuild a Light-Bright App
+Rosetta Code
+Introduction to the Rosetta Code Problems
+Not Passed
+Not Passed100 doors
+Not Passed
+Not Passed24 game
+Not Passed
+Not Passed9 billion names of God the integer
+Not Passed
+Not PassedABC Problem
+Not Passed
+Not PassedAbundant, deficient and perfect number classifications
+Not Passed
+Not PassedAccumulator factory
+Not Passed
+Not PassedAckermann function
+Not Passed
+Not PassedAlign columns
+Not Passed
+Not PassedAmicable pairs
+Not Passed
+Not PassedAverages/Mode
+Not Passed
+Not PassedAverages/Pythagorean means
+Not Passed
+Not PassedAverages/Root mean square
+Not Passed
+Not PassedBabbage problem
+Not Passed
+Not PassedBalanced brackets
+Not Passed
+Not PassedCircles of given radius through two points
+Not Passed
+Not PassedClosest-pair problem
+Not Passed
+Not PassedCombinations
+Not Passed
+Not PassedComma quibbling
+Not Passed
+Not PassedCompare a list of strings
+Not Passed
+Not PassedConvert seconds to compound duration
+Not Passed
+Not PassedCount occurrences of a substring
+Not Passed
+Not PassedCount the coins
+Not Passed
+Not PassedCramer's rule
+Not Passed
+Not PassedDate format
+Not Passed
+Not PassedDate manipulation
+Not Passed
+Not PassedDay of the week
+Not Passed
+Not PassedDeal cards for FreeCell
+Not Passed
+Not PassedDeepcopy
+Not Passed
+Not PassedDefine a primitive data type
+Not Passed
+Not PassedDepartment Numbers
+Not Passed
+Not PassedDiscordian date
+Not Passed
+Not PassedElement-wise operations
+Not Passed
+Not PassedEmirp primes
+Not Passed
+Not PassedEntropy
+Not Passed
+Not PassedEquilibrium index
+Not Passed
+Not PassedEthiopian multiplication
+Not Passed
+Not PassedEuler method
+Not Passed
+Not PassedEvaluate binomial coefficients
+Not Passed
+Not PassedExecute a Markov algorithm
+Not Passed
+Not PassedExecute Brain****
+Not Passed
+Not PassedExtensible prime generator
+Not Passed
+Not PassedFactorial
+Not Passed
+Not PassedFactors of a Mersenne number
+Not Passed
+Not PassedFactors of an integer
+Not Passed
+Not PassedFarey sequence
+Not Passed
+Not PassedFibonacci n-step number sequences
+Not Passed
+Not PassedFibonacci sequence
+Not Passed
+Not PassedFibonacci word
+Not Passed
+Not PassedFractran
+Not Passed
+Not PassedGamma function
+Not Passed
+Not PassedGaussian elimination
+Not Passed
+Not PassedGeneral FizzBuzz
+Not Passed
+Not PassedGenerate lower case ASCII alphabet
+Not Passed
+Not PassedGenerator/Exponential
+Not Passed
+Not PassedGray code
+Not Passed
+Not PassedGreatest common divisor
+Not Passed
+Not PassedGreatest subsequential sum
+Not Passed
+Not PassedHailstone sequence
+Not Passed
+Not PassedHappy numbers
+Not Passed
+Not PassedHarshad or Niven series
+Not Passed
+Not PassedHash from two arrays
+Not Passed
+Not PassedHash join
+Not Passed
+Not PassedHeronian triangles
+Not Passed
+Not PassedHofstadter Figure-Figure sequences
+Not Passed
+Not PassedHofstadter Q sequence
+Not Passed
+Not PassedI before E except after C
+Not Passed
+Not PassedIBAN
+Not Passed
+Not PassedIdentity matrix
+Not Passed
+Not PassedIterated digits squaring
+Not Passed
+Not PassedJaro distance
+Not Passed
+Not PassedJortSort
+Not Passed
+Not PassedJosephus problem
+Not Passed
+Not PassedSailors, coconuts and a monkey problem
+Not Passed
+Not PassedSEDOLs
+Not Passed
+Not PassedS-Expressions
+Not Passed
+Not PassedTaxicab numbers
+Not Passed
+Not PassedTokenize a string with escaping
+Not Passed
+Not PassedTopological sort
+Not Passed
+Not PassedTop rank per group
+Not Passed
+Not PassedTowers of Hanoi
+Not Passed
+Not PassedVector cross product
+Not Passed
+Not PassedVector dot product
+Not Passed
+Not PassedWord wrap
+Not Passed
+Not PassedY combinator
+Not Passed
+Not PassedZeckendorf number representation
+Not Passed
+Not PassedZhang-Suen thinning algorithm
+Not Passed
+Not PassedZig-zag matrix
+Project Euler
+Introduction to the Project Euler Problems
+Not Passed
+Not PassedProblem 1: Multiples of 3 and 5
+Not Passed
+Not PassedProblem 2: Even Fibonacci Numbers
+Not Passed
+Not PassedProblem 3: Largest prime factor
+Not Passed
+Not PassedProblem 4: Largest palindrome product
+Not Passed
+Not PassedProblem 5: Smallest multiple
+Not Passed
+Not PassedProblem 6: Sum square difference
+Not Passed
+Not PassedProblem 7: 10001st prime
+Not Passed
+Not PassedProblem 8: Largest product in a series
+Not Passed
+Not PassedProblem 9: Special Pythagorean triplet
+Not Passed
+Not PassedProblem 10: Summation of primes
+Not Passed
+Not PassedProblem 11: Largest product in a grid
+Not Passed
+Not PassedProblem 12: Highly divisible triangular number
+Not Passed
+Not PassedProblem 13: Large sum
+Not Passed
+Not PassedProblem 14: Longest Collatz sequence
+Not Passed
+Not PassedProblem 15: Lattice paths
+Not Passed
+Not PassedProblem 16: Power digit sum
+Not Passed
+Not PassedProblem 17: Number letter counts
+Not Passed
+Not PassedProblem 18: Maximum path sum I
+Not Passed
+Not PassedProblem 19: Counting Sundays
+Not Passed
+Not PassedProblem 20: Factorial digit sum
+Not Passed
+Not PassedProblem 21: Amicable numbers
+Not Passed
+Not PassedProblem 22: Names scores
+Not Passed
+Not PassedProblem 23: Non-abundant sums
+Not Passed
+Not PassedProblem 24: Lexicographic permutations
+Not Passed
+Not PassedProblem 25: 1000-digit Fibonacci number
+Not Passed
+Not PassedProblem 26: Reciprocal cycles
+Not Passed
+Not PassedProblem 27: Quadratic primes
+Not Passed
+Not PassedProblem 28: Number spiral diagonals
+Not Passed
+Not PassedProblem 29: Distinct powers
+Not Passed
+Not PassedProblem 30: Digit n powers
+Not Passed
+Not PassedProblem 31: Coin sums
+Not Passed
+Not PassedProblem 32: Pandigital products
+Not Passed
+Not PassedProblem 33: Digit cancelling fractions
+Not Passed
+Not PassedProblem 34: Digit factorials
+Not Passed
+Not PassedProblem 35: Circular primes
+Not Passed
+Not PassedProblem 36: Double-base palindromes
+Not Passed
+Not PassedProblem 37: Truncatable primes
+Not Passed
+Not PassedProblem 38: Pandigital multiples
+Not Passed
+Not PassedProblem 39: Integer right triangles
+Not Passed
+Not PassedProblem 40: Champernowne's constant
+Not Passed
+Not PassedProblem 41: Pandigital prime
+Not Passed
+Not PassedProblem 42: Coded triangle numbers
+Not Passed
+Not PassedProblem 43: Sub-string divisibility
+Not Passed
+Not PassedProblem 44: Pentagon numbers
+Not Passed
+Not PassedProblem 45: Triangular, pentagonal, and hexagonal
+Not Passed
+Not PassedProblem 46: Goldbach's other conjecture
+Not Passed
+Not PassedProblem 47: Distinct primes factors
+Not Passed
+Not PassedProblem 48: Self powers
+Not Passed
+Not PassedProblem 49: Prime permutations
+Not Passed
+Not PassedProblem 50: Consecutive prime sum
+Not Passed
+Not PassedProblem 51: Prime digit replacements
+Not Passed
+Not PassedProblem 52: Permuted multiples
+Not Passed
+Not PassedProblem 53: Combinatoric selections
+Not Passed
+Not PassedProblem 54: Poker hands
+Not Passed
+Not PassedProblem 55: Lychrel numbers
+Not Passed
+Not PassedProblem 56: Powerful digit sum
+Not Passed
+Not PassedProblem 57: Square root convergents
+Not Passed
+Not PassedProblem 58: Spiral primes
+Not Passed
+Not PassedProblem 59: XOR decryption
+Not Passed
+Not PassedProblem 60: Prime pair sets
+Not Passed
+Not PassedProblem 61: Cyclical figurate numbers
+Not Passed
+Not PassedProblem 62: Cubic permutations
+Not Passed
+Not PassedProblem 63: Powerful digit counts
+Not Passed
+Not PassedProblem 64: Odd period square roots
+Not Passed
+Not PassedProblem 65: Convergents of e
+Not Passed
+Not PassedProblem 66: Diophantine equation
+Not Passed
+Not PassedProblem 67: Maximum path sum II
+Not Passed
+Not PassedProblem 68: Magic 5-gon ring
+Not Passed
+Not PassedProblem 69: Totient maximum
+Not Passed
+Not PassedProblem 70: Totient permutation
+Not Passed
+Not PassedProblem 71: Ordered fractions
+Not Passed
+Not PassedProblem 72: Counting fractions
+Not Passed
+Not PassedProblem 73: Counting fractions in a range
+Not Passed
+Not PassedProblem 74: Digit factorial chains
+Not Passed
+Not PassedProblem 75: Singular integer right triangles
+Not Passed
+Not PassedProblem 76: Counting summations
+Not Passed
+Not PassedProblem 77: Prime summations
+Not Passed
+Not PassedProblem 78: Coin partitions
+Not Passed
+Not PassedProblem 79: Passcode derivation
+Not Passed
+Not PassedProblem 80: Square root digital expansion
+Not Passed
+Not PassedProblem 81: Path sum: two ways
+Not Passed
+Not PassedProblem 82: Path sum: three ways
+Not Passed
+Not PassedProblem 83: Path sum: four ways
+Not Passed
+Not PassedProblem 84: Monopoly odds
+Not Passed
+Not PassedProblem 85: Counting rectangles
+Not Passed
+Not PassedProblem 86: Cuboid route
+Not Passed
+Not PassedProblem 87: Prime power triples
+Not Passed
+Not PassedProblem 88: Product-sum numbers
+Not Passed
+Not PassedProblem 89: Roman numerals
+Not Passed
+Not PassedProblem 90: Cube digit pairs
+Not Passed
+Not PassedProblem 91: Right triangles with integer coordinates
+Not Passed
+Not PassedProblem 92: Square digit chains
+Not Passed
+Not PassedProblem 93: Arithmetic expressions
+Not Passed
+Not PassedProblem 94: Almost equilateral triangles
+Not Passed
+Not PassedProblem 95: Amicable chains
+Not Passed
+Not PassedProblem 96: Su Doku
+Not Passed
+Not PassedProblem 97: Large non-Mersenne prime
+Not Passed
+Not PassedProblem 98: Anagramic squares
+Not Passed
+Not PassedProblem 99: Largest exponential
+Not Passed
+Not PassedProblem 100: Arranged probability
+Not Passed
+Not PassedProblem 101: Optimum polynomial
+Not Passed
+Not PassedProblem 102: Triangle containment
+Not Passed
+Not PassedProblem 103: Special subset sums: optimum
+Not Passed
+Not PassedProblem 104: Pandigital Fibonacci ends
+Not Passed
+Not PassedProblem 105: Special subset sums: testing
+Not Passed
+Not PassedProblem 106: Special subset sums: meta-testing
+Not Passed
+Not PassedProblem 107: Minimal network
+Not Passed
+Not PassedProblem 108: Diophantine Reciprocals I
+Not Passed
+Not PassedProblem 109: Darts
+Not Passed
+Not PassedProblem 110: Diophantine Reciprocals II
+Not Passed
+Not PassedProblem 111: Primes with runs
+Not Passed
+Not PassedProblem 112: Bouncy numbers
+Not Passed
+Not PassedProblem 113: Non-bouncy numbers
+Not Passed
+Not PassedProblem 114: Counting block combinations I
+Not Passed
+Not PassedProblem 115: Counting block combinations II
+Not Passed
+Not PassedProblem 116: Red, green or blue tiles
+Not Passed
+Not PassedProblem 117: Red, green, and blue tiles
+Not Passed
+Not PassedProblem 118: Pandigital prime sets
+Not Passed
+Not PassedProblem 119: Digit power sum
+Not Passed
+Not PassedProblem 120: Square remainders
+Not Passed
+Not PassedProblem 121: Disc game prize fund
+Not Passed
+Not PassedProblem 122: Efficient exponentiation
+Not Passed
+Not PassedProblem 123: Prime square remainders
+Not Passed
+Not PassedProblem 124: Ordered radicals
+Not Passed
+Not PassedProblem 125: Palindromic sums
+Not Passed
+Not PassedProblem 126: Cuboid layers
+Not Passed
+Not PassedProblem 127: abc-hits
+Not Passed
+Not PassedProblem 128: Hexagonal tile differences
+Not Passed
+Not PassedProblem 129: Repunit divisibility
+Not Passed
+Not PassedProblem 130: Composites with prime repunit property
+Not Passed
+Not PassedProblem 131: Prime cube partnership
+Not Passed
+Not PassedProblem 132: Large repunit factors
+Not Passed
+Not PassedProblem 133: Repunit nonfactors
+Not Passed
+Not PassedProblem 134: Prime pair connection
+Not Passed
+Not PassedProblem 135: Same differences
+Not Passed
+Not PassedProblem 136: Singleton difference
+Not Passed
+Not PassedProblem 137: Fibonacci golden nuggets
+Not Passed
+Not PassedProblem 138: Special isosceles triangles
+Not Passed
+Not PassedProblem 139: Pythagorean tiles
+Not Passed
+Not PassedProblem 140: Modified Fibonacci golden nuggets
+Not Passed
+Not PassedProblem 141: Investigating progressive numbers, n, which are also square
+Not Passed
+Not PassedProblem 142: Perfect Square Collection
+Not Passed
+Not PassedProblem 143: Investigating the Torricelli point of a triangle
+Not Passed
+Not PassedProblem 144: Investigating multiple reflections of a laser beam
+Not Passed
+Not PassedProblem 145: How many reversible numbers are there below one-billion?
+Not Passed
+Not PassedProblem 146: Investigating a Prime Pattern
+Not Passed
+Not PassedProblem 147: Rectangles in cross-hatched grids
+Not Passed
+Not PassedProblem 148: Exploring Pascal's triangle
+Not Passed
+Not PassedProblem 149: Searching for a maximum-sum subsequence
+Not Passed
+Not PassedProblem 150: Searching a triangular array for a sub-triangle having minimum-sum
+Not Passed
+Not PassedProblem 151: Paper sheets of standard sizes: an expected-value problem
+Not Passed
+Not PassedProblem 152: Writing 1/2 as a sum of inverse squares
+Not Passed
+Not PassedProblem 153: Investigating Gaussian Integers
+Not Passed
+Not PassedProblem 154: Exploring Pascal's pyramid
+Not Passed
+Not PassedProblem 155: Counting Capacitor Circuits
+Not Passed
+Not PassedProblem 156: Counting Digits
+Not Passed
+Not PassedProblem 157: Solving the diophantine equation 1/a+1/b= p/10n
+Not Passed
+Not PassedProblem 158: Exploring strings for which only one character comes lexicographically after its neighbour to the left
+Not Passed
+Not PassedProblem 159: Digital root sums of factorisations
+Not Passed
+Not PassedProblem 160: Factorial trailing digits
+Not Passed
+Not PassedProblem 161: Triominoes
+Not Passed
+Not PassedProblem 162: Hexadecimal numbers
+Not Passed
+Not PassedProblem 163: Cross-hatched triangles
+Not Passed
+Not PassedProblem 164: Numbers for which no three consecutive digits have a sum greater than a given value
+Not Passed
+Not PassedProblem 165: Intersections
+Not Passed
+Not PassedProblem 166: Criss Cross
+Not Passed
+Not PassedProblem 167: Investigating Ulam sequences
+Not Passed
+Not PassedProblem 168: Number Rotations
+Not Passed
+Not PassedProblem 169: Exploring the number of different ways a number can be expressed as a sum of powers of 2
+Not Passed
+Not PassedProblem 170: Find the largest 0 to 9 pandigital that can be formed by concatenating products
+Not Passed
+Not PassedProblem 171: Finding numbers for which the sum of the squares of the digits is a square
+Not Passed
+Not PassedProblem 172: Investigating numbers with few repeated digits
+Not Passed
+Not PassedProblem 173: Using up to one million tiles how many different "hollow" square laminae can be formed?
+Not Passed
+Not PassedProblem 174: Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements
+Not Passed
+Not PassedProblem 175: Fractions involving the number of different ways a number can be expressed as a sum of powers of 2
+Not Passed
+Not PassedProblem 176: Right-angled triangles that share a cathetus
+Not Passed
+Not PassedProblem 177: Integer angled Quadrilaterals
+Not Passed
+Not PassedProblem 178: Step Numbers
+Not Passed
+Not PassedProblem 179: Consecutive positive divisors
+Not Passed
+Not PassedProblem 180: Rational zeros of a function of three variables
+Not Passed
+Not PassedProblem 181: Investigating in how many ways objects of two different colours can be grouped
+Not Passed
+Not PassedProblem 182: RSA encryption
+Not Passed
+Not PassedProblem 183: Maximum product of parts
+Not Passed
+Not PassedProblem 184: Triangles containing the origin
+Not Passed
+Not PassedProblem 185: Number Mind
+Not Passed
+Not PassedProblem 186: Connectedness of a network
+Not Passed
+Not PassedProblem 187: Semiprimes
+Not Passed
+Not PassedProblem 188: The hyperexponentiation of a number
+Not Passed
+Not PassedProblem 189: Tri-colouring a triangular grid
+Not Passed
+Not PassedProblem 190: Maximising a weighted product
+Not Passed
+Not PassedProblem 191: Prize Strings
+Not Passed
+Not PassedProblem 192: Best Approximations
+Not Passed
+Not PassedProblem 193: Squarefree Numbers
+Not Passed
+Not PassedProblem 194: Coloured Configurations
+Not Passed
+Not PassedProblem 195: Inscribed circles of triangles with one angle of 60 degrees
+Not Passed
+Not PassedProblem 196: Prime triplets
+Not Passed
+Not PassedProblem 197: Investigating the behaviour of a recursively defined sequence
+Not Passed
+Not PassedProblem 198: Ambiguous Numbers
+Not Passed
+Not PassedProblem 199: Iterative Circle Packing
+Not Passed
+Not PassedProblem 200: Find the 200th prime-proof sqube containing the contiguous sub-string "200"
+Not Passed
+Not PassedProblem 201: Subsets with a unique sum
+Not Passed
+Not PassedProblem 202: Laserbeam
+Not Passed
+Not PassedProblem 203: Squarefree Binomial Coefficients
+Not Passed
+Not PassedProblem 204: Generalised Hamming Numbers
+Not Passed
+Not PassedProblem 205: Dice Game
+Not Passed
+Not PassedProblem 206: Concealed Square
+Not Passed
+Not PassedProblem 207: Integer partition equations
+Not Passed
+Not PassedProblem 208: Robot Walks
+Not Passed
+Not PassedProblem 209: Circular Logic
+Not Passed
+Not PassedProblem 210: Obtuse Angled Triangles
+Not Passed
+Not PassedProblem 211: Divisor Square Sum
+Not Passed
+Not PassedProblem 212: Combined Volume of Cuboids
+Not Passed
+Not PassedProblem 213: Flea Circus
+Not Passed
+Not PassedProblem 214: Totient Chains
+Not Passed
+Not PassedProblem 215: Crack-free Walls
+Not Passed
+Not PassedProblem 216: Investigating the primality of numbers of the form 2n2-1
+Not Passed
+Not PassedProblem 217: Balanced Numbers
+Not Passed
+Not PassedProblem 218: Perfect right-angled triangles
+Not Passed
+Not PassedProblem 219: Skew-cost coding
+Not Passed
+Not PassedProblem 220: Heighway Dragon
+Not Passed
+Not PassedProblem 221: Alexandrian Integers
+Not Passed
+Not PassedProblem 222: Sphere Packing
+Not Passed
+Not PassedProblem 223: Almost right-angled triangles I
+Not Passed
+Not PassedProblem 224: Almost right-angled triangles II
+Not Passed
+Not PassedProblem 225: Tribonacci non-divisors
+Not Passed
+Not PassedProblem 226: A Scoop of Blancmange
+Not Passed
+Not PassedProblem 227: The Chase
+Not Passed
+Not PassedProblem 228: Minkowski Sums
+Not Passed
+Not PassedProblem 229: Four Representations using Squares
+Not Passed
+Not PassedProblem 230: Fibonacci Words
+Not Passed
+Not PassedProblem 231: The prime factorisation of binomial coefficients
+Not Passed
+Not PassedProblem 232: The Race
+Not Passed
+Not PassedProblem 233: Lattice points on a circle
+Not Passed
+Not PassedProblem 234: Semidivisible numbers
+Not Passed
+Not PassedProblem 235: An Arithmetic Geometric sequence
+Not Passed
+Not PassedProblem 236: Luxury Hampers
+Not Passed
+Not PassedProblem 237: Tours on a 4 x n playing board
+Not Passed
+Not PassedProblem 238: Infinite string tour
+Not Passed
+Not PassedProblem 239: Twenty-two Foolish Primes
+Not Passed
+Not PassedProblem 240: Top Dice
+Not Passed
+Not PassedProblem 241: Perfection Quotients
+Not Passed
+Not PassedProblem 242: Odd Triplets
+Not Passed
+Not PassedProblem 243: Resilience
+Not Passed
+Not PassedProblem 244: Sliders
+Not Passed
+Not PassedProblem 245: Coresilience
+Not Passed
+Not PassedProblem 246: Tangents to an ellipse
+Not Passed
+Not PassedProblem 247: Squares under a hyperbola
+Not Passed
+Not PassedProblem 248: Numbers for which Euler’s totient function equals 13!
+Not Passed
+Not PassedProblem 249: Prime Subset Sums
+Not Passed
+Not PassedProblem 250: 250250
+Not Passed
+Not PassedProblem 251: Cardano Triplets
+Not Passed
+Not PassedProblem 252: Convex Holes
+Not Passed
+Not PassedProblem 253: Tidying up
+Not Passed
+Not PassedProblem 254: Sums of Digit Factorials
+Not Passed
+Not PassedProblem 255: Rounded Square Roots
+Not Passed
+Not PassedProblem 256: Tatami-Free Rooms
+Not Passed
+Not PassedProblem 257: Angular Bisectors
+Not Passed
+Not PassedProblem 258: A lagged Fibonacci sequence
+Not Passed
+Not PassedProblem 259: Reachable Numbers
+Not Passed
+Not PassedProblem 260: Stone Game
+Not Passed
+Not PassedProblem 261: Pivotal Square Sums
+Not Passed
+Not PassedProblem 262: Mountain Range
+Not Passed
+Not PassedProblem 263: An engineers' dream come true
+Not Passed
+Not PassedProblem 264: Triangle Centres
+Not Passed
+Not PassedProblem 265: Binary Circles
+Not Passed
+Not PassedProblem 266: Pseudo Square Root
+Not Passed
+Not PassedProblem 267: Billionaire
+Not Passed
+Not PassedProblem 268: Counting numbers with at least four distinct prime factors less than 100
+Not Passed
+Not PassedProblem 269: Polynomials with at least one integer root
+Not Passed
+Not PassedProblem 270: Cutting Squares
+Not Passed
+Not PassedProblem 271: Modular Cubes, part 1
+Not Passed
+Not PassedProblem 272: Modular Cubes, part 2
+Not Passed
+Not PassedProblem 273: Sum of Squares
+Not Passed
+Not PassedProblem 274: Divisibility Multipliers
+Not Passed
+Not PassedProblem 275: Balanced Sculptures
+Not Passed
+Not PassedProblem 276: Primitive Triangles
+Not Passed
+Not PassedProblem 277: A Modified Collatz sequence
+Not Passed
+Not PassedProblem 278: Linear Combinations of Semiprimes
+Not Passed
+Not PassedProblem 279: Triangles with integral sides and an integral angle
+Not Passed
+Not PassedProblem 280: Ant and seeds
+Not Passed
+Not PassedProblem 281: Pizza Toppings
+Not Passed
+Not PassedProblem 282: The Ackermann function
+Not Passed
+Not PassedProblem 283: Integer sided triangles for which the area/perimeter ratio is integral
+Not Passed
+Not PassedProblem 284: Steady Squares
+Not Passed
+Not PassedProblem 285: Pythagorean odds
+Not Passed
+Not PassedProblem 286: Scoring probabilities
+Not Passed
+Not PassedProblem 287: Quadtree encoding (a simple compression algorithm)
+Not Passed
+Not PassedProblem 288: An enormous factorial
+Not Passed
+Not PassedProblem 289: Eulerian Cycles
+Not Passed
+Not PassedProblem 290: Digital Signature
+Not Passed
+Not PassedProblem 291: Panaitopol Primes
+Not Passed
+Not PassedProblem 292: Pythagorean Polygons
+Not Passed
+Not PassedProblem 293: Pseudo-Fortunate Numbers
+Not Passed
+Not PassedProblem 294: Sum of digits - experience #23
+Not Passed
+Not PassedProblem 295: Lenticular holes
+Not Passed
+Not PassedProblem 296: Angular Bisector and Tangent
+Not Passed
+Not PassedProblem 297: Zeckendorf Representation
+Not Passed
+Not PassedProblem 298: Selective Amnesia
+Not Passed
+Not PassedProblem 299: Three similar triangles
+Not Passed
+Not PassedProblem 300: Protein folding
+Not Passed
+Not PassedProblem 301: Nim
+Not Passed
+Not PassedProblem 302: Strong Achilles Numbers
+Not Passed
+Not PassedProblem 303: Multiples with small digits
+Not Passed
+Not PassedProblem 304: Primonacci
+Not Passed
+Not PassedProblem 305: Reflexive Position
+Not Passed
+Not PassedProblem 306: Paper-strip Game
+Not Passed
+Not PassedProblem 307: Chip Defects
+Not Passed
+Not PassedProblem 308: An amazing Prime-generating Automaton
+Not Passed
+Not PassedProblem 309: Integer Ladders
+Not Passed
+Not PassedProblem 310: Nim Square
+Not Passed
+Not PassedProblem 311: Biclinic Integral Quadrilaterals
+Not Passed
+Not PassedProblem 312: Cyclic paths on Sierpiński graphs
+Not Passed
+Not PassedProblem 313: Sliding game
+Not Passed
+Not PassedProblem 314: The Mouse on the Moon
+Not Passed
+Not PassedProblem 315: Digital root clocks
+Not Passed
+Not PassedProblem 316: Numbers in decimal expansions
+Not Passed
+Not PassedProblem 317: Firecracker
+Not Passed
+Not PassedProblem 318: 2011 nines
+Not Passed
+Not PassedProblem 319: Bounded Sequences
+Not Passed
+Not PassedProblem 320: Factorials divisible by a huge integer
+Not Passed
+Not PassedProblem 321: Swapping Counters
+Not Passed
+Not PassedProblem 322: Binomial coefficients divisible by 10
+Not Passed
+Not PassedProblem 323: Bitwise-OR operations on random integers
+Not Passed
+Not PassedProblem 324: Building a tower
+Not Passed
+Not PassedProblem 325: Stone Game II
+Not Passed
+Not PassedProblem 326: Modulo Summations
+Not Passed
+Not PassedProblem 327: Rooms of Doom
+Not Passed
+Not PassedProblem 328: Lowest-cost Search
+Not Passed
+Not PassedProblem 329: Prime Frog
+Not Passed
+Not PassedProblem 330: Euler's Number
+Not Passed
+Not PassedProblem 331: Cross flips
+Not Passed
+Not PassedProblem 332: Spherical triangles
+Not Passed
+Not PassedProblem 333: Special partitions
+Not Passed
+Not PassedProblem 334: Spilling the beans
+Not Passed
+Not PassedProblem 335: Gathering the beans
+Not Passed
+Not PassedProblem 336: Maximix Arrangements
+Not Passed
+Not PassedProblem 337: Totient Stairstep Sequences
+Not Passed
+Not PassedProblem 338: Cutting Rectangular Grid Paper
+Not Passed
+Not PassedProblem 339: Peredur fab Efrawg
+Not Passed
+Not PassedProblem 340: Crazy Function
+Not Passed
+Not PassedProblem 341: Golomb's self-describing sequence
+Not Passed
+Not PassedProblem 342: The totient of a square is a cube
+Not Passed
+Not PassedProblem 343: Fractional Sequences
+Not Passed
+Not PassedProblem 344: Silver dollar game
+Not Passed
+Not PassedProblem 345: Matrix Sum
+Not Passed
+Not PassedProblem 346: Strong Repunits
+Not Passed
+Not PassedProblem 347: Largest integer divisible by two primes
+Not Passed
+Not PassedProblem 348: Sum of a square and a cube
+Not Passed
+Not PassedProblem 349: Langton's ant
+Not Passed
+Not PassedProblem 350: Constraining the least greatest and the greatest least
+Not Passed
+Not PassedProblem 351: Hexagonal orchards
+Not Passed
+Not PassedProblem 352: Blood tests
+Not Passed
+Not PassedProblem 353: Risky moon
+Not Passed
+Not PassedProblem 354: Distances in a bee's honeycomb
+Not Passed
+Not PassedProblem 355: Maximal coprime subset
+Not Passed
+Not PassedProblem 356: Largest roots of cubic polynomials
+Not Passed
+Not PassedProblem 357: Prime generating integers
+Not Passed
+Not PassedProblem 358: Cyclic numbers
+Not Passed
+Not PassedProblem 359: Hilbert's New Hotel
+Not Passed
+Not PassedProblem 360: Scary Sphere
+Not Passed
+Not PassedProblem 361: Subsequence of Thue-Morse sequence
+Not Passed
+Not PassedProblem 362: Squarefree factors
+Not Passed
+Not PassedProblem 363: Bézier Curves
+Not Passed
+Not PassedProblem 364: Comfortable distance
+Not Passed
+Not PassedProblem 365: A huge binomial coefficient
+Not Passed
+Not PassedProblem 366: Stone Game III
+Not Passed
+Not PassedProblem 367: Bozo sort
+Not Passed
+Not PassedProblem 368: A Kempner-like series
+Not Passed
+Not PassedProblem 369: Badugi
+Not Passed
+Not PassedProblem 370: Geometric triangles
+Not Passed
+Not PassedProblem 371: Licence plates
+Not Passed
+Not PassedProblem 372: Pencils of rays
+Not Passed
+Not PassedProblem 373: Circumscribed Circles
+Not Passed
+Not PassedProblem 374: Maximum Integer Partition Product
+Not Passed
+Not PassedProblem 375: Minimum of subsequences
+Not Passed
+Not PassedProblem 376: Nontransitive sets of dice
+Not Passed
+Not PassedProblem 377: Sum of digits, experience 13
+Not Passed
+Not PassedProblem 378: Triangle Triples
+Not Passed
+Not PassedProblem 379: Least common multiple count
+Not Passed
+Not PassedProblem 380: Amazing Mazes!
+Not Passed
+Not PassedProblem 381: (prime-k) factorial
+Not Passed
+Not PassedProblem 382: Generating polygons
+Not Passed
+Not PassedProblem 383: Divisibility comparison between factorials
+Not Passed
+Not PassedProblem 384: Rudin-Shapiro sequence
+Not Passed
+Not PassedProblem 385: Ellipses inside triangles
+Not Passed
+Not PassedProblem 386: Maximum length of an antichain
+Not Passed
+Not PassedProblem 387: Harshad Numbers
+Not Passed
+Not PassedProblem 388: Distinct Lines
+Not Passed
+Not PassedProblem 389: Platonic Dice
+Not Passed
+Not PassedProblem 390: Triangles with non rational sides and integral area
+Not Passed
+Not PassedProblem 391: Hopping Game
+Not Passed
+Not PassedProblem 392: Enmeshed unit circle
+Not Passed
+Not PassedProblem 393: Migrating ants
+Not Passed
+Not PassedProblem 394: Eating pie
+Not Passed
+Not PassedProblem 395: Pythagorean tree
+Not Passed
+Not PassedProblem 396: Weak Goodstein sequence
+Not Passed
+Not PassedProblem 397: Triangle on parabola
+Not Passed
+Not PassedProblem 398: Cutting rope
+Not Passed
+Not PassedProblem 399: Squarefree Fibonacci Numbers
+Not Passed
+Not PassedProblem 400: Fibonacci tree game
+Not Passed
+Not PassedProblem 401: Sum of squares of divisors
+Not Passed
+Not PassedProblem 402: Integer-valued polynomials
+Not Passed
+Not PassedProblem 403: Lattice points enclosed by parabola and line
+Not Passed
+Not PassedProblem 404: Crisscross Ellipses
+Not Passed
+Not PassedProblem 405: A rectangular tiling
+Not Passed
+Not PassedProblem 406: Guessing Game
+Not Passed
+Not PassedProblem 407: Idempotents
+Not Passed
+Not PassedProblem 408: Admissible paths through a grid
+Not Passed
+Not PassedProblem 409: Nim Extreme
+Not Passed
+Not PassedProblem 410: Circle and tangent line
+Not Passed
+Not PassedProblem 411: Uphill paths
+Not Passed
+Not PassedProblem 412: Gnomon numbering
+Not Passed
+Not PassedProblem 413: One-child Numbers
+Not Passed
+Not PassedProblem 414: Kaprekar constant
+Not Passed
+Not PassedProblem 415: Titanic sets
+Not Passed
+Not PassedProblem 416: A frog's trip
+Not Passed
+Not PassedProblem 417: Reciprocal cycles II
+Not Passed
+Not PassedProblem 418: Factorisation triples
+Not Passed
+Not PassedProblem 419: Look and say sequence
+Not Passed
+Not PassedProblem 420: 2x2 positive integer matrix
+Not Passed
+Not PassedProblem 421: Prime factors of n15+1
+Not Passed
+Not PassedProblem 422: Sequence of points on a hyperbola
+Not Passed
+Not PassedProblem 423: Consecutive die throws
+Not Passed
+Not PassedProblem 424: Kakuro
+Not Passed
+Not PassedProblem 425: Prime connection
+Not Passed
+Not PassedProblem 426: Box-ball system
+Not Passed
+Not PassedProblem 427: n-sequences
+Not Passed
+Not PassedProblem 428: Necklace of Circles
+Not Passed
+Not PassedProblem 429: Sum of squares of unitary divisors
+Not Passed
+Not PassedProblem 430: Range flips
+Not Passed
+Not PassedProblem 431: Square Space Silo
+Not Passed
+Not PassedProblem 432: Totient sum
+Not Passed
+Not PassedProblem 433: Steps in Euclid's algorithm
+Not Passed
+Not PassedProblem 434: Rigid graphs
+Not Passed
+Not PassedProblem 435: Polynomials of Fibonacci numbers
+Not Passed
+Not PassedProblem 436: Unfair wager
+Not Passed
+Not PassedProblem 437: Fibonacci primitive roots
+Not Passed
+Not PassedProblem 438: Integer part of polynomial equation's solutions
+Not Passed
+Not PassedProblem 439: Sum of sum of divisors
+Not Passed
+Not PassedProblem 440: GCD and Tiling
+Not Passed
+Not PassedProblem 441: The inverse summation of coprime couples
+Not Passed
+Not PassedProblem 442: Eleven-free integers
+Not Passed
+Not PassedProblem 443: GCD sequence
+Not Passed
+Not PassedProblem 444: The Roundtable Lottery
+Not Passed
+Not PassedProblem 445: Retractions A
+Not Passed
+Not PassedProblem 446: Retractions B
+Not Passed
+Not PassedProblem 447: Retractions C
+Not Passed
+Not PassedProblem 448: Average least common multiple
+Not Passed
+Not PassedProblem 449: Chocolate covered candy
+Not Passed
+Not PassedProblem 450: Hypocycloid and Lattice points
+Not Passed
+Not PassedProblem 451: Modular inverses
+Not Passed
+Not PassedProblem 452: Long Products
+Not Passed
+Not PassedProblem 453: Lattice Quadrilaterals
+Not Passed
+Not PassedProblem 454: Diophantine reciprocals III
+Not Passed
+Not PassedProblem 455: Powers With Trailing Digits
+Not Passed
+Not PassedProblem 456: Triangles containing the origin II
+Not Passed
+Not PassedProblem 457: A polynomial modulo the square of a prime
+Not Passed
+Not PassedProblem 458: Permutations of Project
+Not Passed
+Not PassedProblem 459: Flipping game
+Not Passed
+Not PassedProblem 460: An ant on the move
+Not Passed
+Not PassedProblem 461: Almost Pi
+Not Passed
+Not PassedProblem 462: Permutation of 3-smooth numbers
+Not Passed
+Not PassedProblem 463: A weird recurrence relation
+Not Passed
+Not PassedProblem 464: Möbius function and intervals
+Not Passed
+Not PassedProblem 465: Polar polygons
+Not Passed
+Not PassedProblem 466: Distinct terms in a multiplication table
+Not Passed
+Not PassedProblem 467: Superinteger
+Not Passed
+Not PassedProblem 468: Smooth divisors of binomial coefficients
+Not Passed
+Not PassedProblem 469: Empty chairs
+Not Passed
+Not PassedProblem 470: Super Ramvok
+Not Passed
+Not PassedProblem 471: Triangle inscribed in ellipse
+Not Passed
+Not PassedProblem 472: Comfortable Distance II
+Not Passed
+Not PassedProblem 473: Phigital number base
+Not Passed
+Not PassedProblem 474: Last digits of divisors
+Not Passed
+Not PassedProblem 475: Music festival
+Not Passed
+Not PassedProblem 476: Circle Packing II
+Not Passed
+Not PassedProblem 477: Number Sequence Game
+Not Passed
+Not PassedProblem 478: Mixtures
+Not Passed
+Not PassedProblem 479: Roots on the Rise
+Not Passed
+Not PassedProblem 480: The Last Question

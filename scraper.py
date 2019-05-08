@@ -46,7 +46,7 @@ def iterate_files(line, parent_dir):
     :return: Files with different endings within the current directory
     '''
     pwd = os.getcwd()
-    print('Inside ' + pwd + ' and ' + parent_dir + ' working on ' + line)
+    print('Inside ' + pwd + ' and ' + parent_dir + ' working on ' + line[10:])
     if line != "Not Passed\n":
         line = line[10:]
         if 'Responsive' or 'Data' in parent_dir or 'Bootstrap' in pwd:
@@ -68,11 +68,16 @@ def fcc_curriculum():
     read_file = open('tree.txt', 'r', encoding='UTF-8')
     read_lines = read_file.readlines()
     print('Building curriculum')
+    data = list()
+    for d in read_lines:
+        data.append(d)
+        #print(d)
+    read_file.close()
     try:
-        for dirs in read_lines:
+        for dirs in data:
             # Omit \n from dir name
-            l = dirs[:-1]
-            #print(l)
+            l = str(dirs[:-1])
+            # print(l)
             pwd = os.getcwd()
             parent = str()
             if '300' in pwd:
@@ -88,12 +93,14 @@ def fcc_curriculum():
                 os.chdir(l)
                 print('Inside new directory')
             else:
-                print('Creating file' + l)
-                iterate_files(l, parent)
-
+                if l != 'Not Passed\n':
+                    l = l[10:-1]
+                    print('Creating file' + l)
+                    iterate_files(l, parent)
     except FileExistsError:
         pass
-    read_file.close()
+
+#read_file.close()
 
 
 if __name__ == '__main__':

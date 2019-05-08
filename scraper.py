@@ -3,6 +3,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 import os
 # Build webdriver
 options = webdriver.ChromeOptions()
+options.add_argument('headless')
 options.binary_location = 'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'
 driver = webdriver.Chrome(chrome_options=options)
 driver.get('https://learn.freecodecamp.org/')
@@ -37,6 +38,7 @@ for element in grandchild_nodes:
     write_element_text(element)
 
 file.close()
+driver.close()
 
 
 def iterate_files(line, parent_dir):
@@ -45,18 +47,23 @@ def iterate_files(line, parent_dir):
     :param parent_dir:
     :return: Files with different endings within the current directory
     '''
-    pwd = os.getcwd()
-    print('Inside ' + pwd + ' and ' + parent_dir + ' working on ' + line[10:])
-    if line != "Not Passed\n":
-        line = line[10:]
-        if 'Responsive' or 'Data' in parent_dir or 'Bootstrap' in pwd:
+    try:
+        pwd = os.getcwd()
+        print('Inside ' + pwd + ' and ' + parent_dir + ' working on ' + line)
+        if 'Responsive' in parent_dir or 'Bootstrap' in pwd:
             ex_file = open(line + '.html', 'w', encoding='UTF-8')
-        elif 'Projects' or 'Mongoose' or 'Chai' or 'Helment' or 'Express' or 'npm' in pwd:
+        elif 'Mongoose' or 'Chai' or 'Helment' or 'Express' or 'npm' in pwd:
             ex_file = open(line + '.txt' 'w', encoding='UTF-8')
         elif 'Sass' in pwd:
             ex_file = open(line + '.css', 'w', encoding='UTF-8')
         else:
             ex_file = open(line + '.js', 'w', encoding='UTF-8')
+        ex_file.close()
+    except FileNotFoundError:
+        pass
+    except OSError:
+        line = 'Invalid_Chars'
+        ex_file = open(line + '.js', 'w', encoding='UTF-8')
         ex_file.close()
 
 
@@ -72,30 +79,39 @@ def fcc_curriculum():
     for d in read_lines:
         data.append(d)
         #print(d)
+    print(len(data))
     read_file.close()
+    switch = 0
     try:
         for dirs in data:
             # Omit \n from dir name
             l = str(dirs[:-1])
-            # print(l)
+            print(l)
             pwd = os.getcwd()
-            parent = str()
+            print(pwd)
             if '300' in pwd:
                 parent = pwd
-            if 'Project' in pwd and '300' in l:
+            if 'Introduction' in pwd and '300' in l:
                 os.chdir('..')
                 os.chdir('..')
                 os.chdir('..')
             if 'Not Passed' not in l:
+                if '300' not in l:
+                    switch += 1
                 # Prints following statement, but does not mkdir, does not throw error
+                if switch > 2:
+                    os.chdir('..')
+                    os.chdir('..')
+                    switch = 1
                 print('Making directory')
                 os.mkdir(l)
+                print('Directory made')
                 os.chdir(l)
                 print('Inside new directory')
             else:
                 if l != 'Not Passed\n':
-                    l = l[10:-1]
-                    print('Creating file' + l)
+                    l = l[10:]
+                    print('Creating file ' + l)
                     iterate_files(l, parent)
     except FileExistsError:
         pass
@@ -105,4 +121,5 @@ def fcc_curriculum():
 
 if __name__ == '__main__':
     print('Preparing to build tree ')
+    #os.mkdir('Parent directory')
     fcc_curriculum()

@@ -82,8 +82,10 @@ def fcc_curriculum():
     print(len(data))
     read_file.close()
     switch = 0
+    count = 0
     try:
         for dirs in data:
+            count += 1
             # Omit \n from dir name
             l = str(dirs[:-1])
             print(l)
@@ -91,32 +93,43 @@ def fcc_curriculum():
             print(pwd)
             if '300' in pwd:
                 parent = pwd
-            if 'Introduction' in pwd and '300' in l:
+            if '300' in l and count > 1:
                 os.chdir('..')
                 os.chdir('..')
                 os.chdir('..')
             if 'Not Passed' not in l:
                 if '300' not in l:
                     switch += 1
+                    if 'Introduction' in l:
+                        switch = 2
+                else:
+                    switch = 0
                 # Prints following statement, but does not mkdir, does not throw error
                 if switch > 2:
                     os.chdir('..')
                     os.chdir('..')
                     switch = 1
                 print('Making directory')
-                os.mkdir(l)
+                pwd = os.getcwd()
+                if '\\\\?\\' not in pwd:
+                    npwd = '\\\\?\\' + pwd + '\\' + l
+                else:
+                    npwd = os.getcwd()
+                print(npwd)
+                os.mkdir(npwd)
                 print('Directory made')
-                os.chdir(l)
+                os.chdir(npwd)
                 print('Inside new directory')
             else:
                 if l != 'Not Passed\n':
                     l = l[10:]
-                    print('Creating file ' + l)
-                    iterate_files(l, parent)
+                if '*' in l:
+                    l.replace('*', '')
+                else:
+                    pass
+                iterate_files(l, parent)
     except FileExistsError:
         pass
-
-#read_file.close()
 
 
 if __name__ == '__main__':

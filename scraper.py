@@ -54,8 +54,10 @@ def shorten_path(line):
         line = line.replace('Algorithms', 'Algos')
     if 'Certification' in line:
         line = line.replace('Certification', 'Cert')
-    if 'Problem' == line:
+    if 'Problem' in line:
         line = line.replace('Problem', 'Prob')
+    if 'Coding Interview' in line:
+        line = 'Coding Interview Prep'
     line = line.rstrip()
     return line
 
@@ -72,19 +74,35 @@ def iterate_files(line):
         #print('Inside ' + pwd + ' and ' + parent_dir + ' working on ' + line)
         if 'Responsive' in pwd or 'Bootstrap' in pwd:
             ex_file = open(line + '.html', 'w', encoding='UTF-8')
-        elif 'Mongoose' or 'Chai' or 'Helment' or 'Express' or 'npm' in pwd:
+            ex_file.close()
+            return ex_file
+        if 'Mongoose' or 'Chai' or 'Helmet' or 'Express' or 'npm' in pwd:
             ex_file = open(line + '.txt' 'w', encoding='UTF-8')
-        elif 'Sass' in pwd:
+            ex_file.close()
+            return ex_file
+            # Not creating right extensions in Sass dirs
+        if 'Sass' in pwd:
             ex_file = open(line + '.css', 'w', encoding='UTF-8')
-        else:
+            ex_file.close()
+            return ex_file
+        if 'Prob' in pwd:
             ex_file = open(line + '.js', 'w', encoding='UTF-8')
+            ex_file.close()
+            return ex_file
+
+        ex_file = open(line + '.js', 'w', encoding='UTF-8')
         ex_file.close()
+        return ex_file
     except FileNotFoundError:
         try:
             # Halve the line length quick and dirty
             line = line[:len(line)//2]
+            print(line)
+            if line in os.listdir():
+                print("file dupe")
             ex_file = open(line + '.js', 'w', encoding='UTF-8')
             ex_file.close()
+            return  ex_file
         except FileNotFoundError:
             print('File Not Found Error')
             pass
@@ -92,6 +110,7 @@ def iterate_files(line):
         line = 'Invalid_Chars'
         ex_file = open(line + '.js', 'w', encoding='UTF-8')
         ex_file.close()
+        return ex_file
 
 
 def fcc_curriculum():

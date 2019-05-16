@@ -54,8 +54,8 @@ def shorten_path(line):
         line = line.replace('Algorithms', 'Algos')
     if 'Certification' in line:
         line = line.replace('Certification', 'Cert')
-    if 'Problem' == line[:6]:
-        line
+    if 'Problem' == line:
+        line = line.replace('Problem', 'Prob')
     line = line.rstrip()
     return line
 
@@ -160,6 +160,7 @@ def fcc_curriculum():
                 if ':' in l:
                     c_index = l.index(':')
                     l = l[:c_index]
+                    print(l)
                 iterate_files(l)
     except FileExistsError:
         pass
